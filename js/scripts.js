@@ -1,7 +1,6 @@
-
 $(document).ready(function(){$('#sidebar').affix({
       offset: {
-        top: 340
+        top: 570
       }
-});	
+});
 });

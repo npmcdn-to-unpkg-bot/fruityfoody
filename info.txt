@@ -1,0 +1,27 @@
+type maaltijd (course):
+- tussendoor
+- ontbijt
+- lunch
+- voorgerecht
+- hoofdgerecht
+- nagerecht
+- salade
+- drank
+
+soort maaltijd:
+- vegetarisch
+- gevogelte
+- vlees
+- vis
+
+aantal personen:
+
+tijd:
+- zo gepiept (tot 20 min.)
+- best snel (20 tot 40 min.)
+- even geduld (40 tot 60 min.)
+- duurt wat langer (meer dan 60 min.)
+
+beoordeling?
+{service voor zoeken}
+
