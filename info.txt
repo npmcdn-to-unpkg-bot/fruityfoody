@@ -1,18 +1,17 @@
 type maaltijd (course):
-- tussendoor
-- ontbijt
-- lunch
-- voorgerecht
-- hoofdgerecht
-- nagerecht
-- salade
-- drank
+- tussendoor (carrot)
+- ontbijt (spoon)
+- lunch (fork)
+- voorgerecht (silverware)
+- hoofdgerecht (silverware-variant)
+- salade (leaf) ??
+- drank (glass/cup/beer)
 
 soort maaltijd:
-- vegetarisch
-- gevogelte
-- vlees
-- vis
+- vegetarisch (leaf)
+- gevogelte (duck/hops)
+- vlees (cow)
+- vis (fish)
 
 aantal personen:
 
