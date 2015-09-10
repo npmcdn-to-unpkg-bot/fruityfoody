@@ -271,9 +271,9 @@ h3.highlight  {
     margin: 20px;
 }
 .slider>a>span.info .title{
-    font-size: 24px;
+    font-size: 26px;
     text-decoration: underline;
-    text-shadow: 1px 1px 1px rgb(69, 69, 69);
+    text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 /*transitions*/
 .slider .image-wrap img {
