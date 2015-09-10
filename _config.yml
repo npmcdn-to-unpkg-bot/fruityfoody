@@ -1,0 +1,80 @@
+# Site vars
+title: Fruity Foody
+email: "jolanda@ateljkuijers.nl"
+description: > #ignore newlines until "baseurl:"
+  Gezonde en lekkere recepten!
+url: "http://localhost:4000"
+twitter_username: fruityfoodie
+paginate: 5
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+
+# Where things are
+source:      .
+destination: ./_site
+#plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+collections:
+  components:
+    output: false
+
+# Handling Reading
+exclude:
+  - less
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      true
+unpublished: false
+
+# Conversion
+markdown:    kramdown
+highlighter: pygments
+lsi:         false
+excerpt_separator: "\n\n"
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+# Outputting
+permalink:     /:year/:month/:day/:title/
+paginate_path: /page:num
+timezone:      null
+
+quiet:    false
+defaults: []
+
+# Markdown Processors
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style
