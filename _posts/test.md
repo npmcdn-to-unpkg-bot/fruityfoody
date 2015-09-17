@@ -1,0 +1,20 @@
+---
+layout: recipe
+title: Test
+menu_item: lunch
+category: lunch
+---
+### Bijzondere aubergineschotel
+
+#### Ingredi&euml;nten
+
+| Topping: |
+| --- |
+| 500 gram speltbloem |
+| 2 aubergines |
+| 3 eieren |
+| 200 gram geraspte kaas |
+
+#### Bereiding
+
+Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
