@@ -50,6 +50,11 @@ h1 {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
+.panel.muut .m-reply{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px;
+}
+
 .category-body .panel .image-head img {
     width: 100%;
 }
