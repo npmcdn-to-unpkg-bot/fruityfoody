@@ -49,7 +49,7 @@ gems:
   - jekyll-sitemap
 
 # Outputting
-permalink:     /:year/:month/:day/:title/
+permalink:     /:category/:title/
 paginate_path: /page:num
 timezone:      null
 
