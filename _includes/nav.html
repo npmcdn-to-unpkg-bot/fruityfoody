@@ -11,7 +11,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-            {% for nav in site.data.navigation reversed %}
+            {% for nav in site.data.navigation %}
                 {% capture nav_location %}{{ nav.href | replace:'/','' }}{% endcapture %}
                 {% if location == nav_location %}
                     <li class="active"><a href="{{ site.baseurl }}{{ nav.href }}"><i class="mdi {{ nav.icon }}"></i>{{ nav.title }}</a></li>
