@@ -1,0 +1,24 @@
+- title: "Ontbijt"
+  href: "/ontbijt/"
+ 
+- title: "Lunch"
+  href: "/lunch/"
+#  subcategories:
+#    - subtitle: "Learning topic 1"
+#      subhref: "/learn1/"
+#    - subtitle: "Learning topic 2"
+#      subhref: "/learn2/"
+
+- title: "Diner"
+  href: "/diner/"
+ 
+- title: "Tussendoor"
+  href: "/tussendoor/"
+ 
+ 
+- title: "Snel klaar"
+  href: "/snelklaar/"
+ 
+ 
+- title: "Artikelen"
+  href: "/artikelen/"
