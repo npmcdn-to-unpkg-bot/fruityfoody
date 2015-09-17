@@ -4,7 +4,7 @@ email: "jolanda@ateljkuijers.nl"
 description: > #ignore newlines until "baseurl:"
   Gezonde en lekkere recepten!
 url: "http://localhost:4000"
-twitter_username: fruityfoodie
+twitter_username: FruityFoodie
 paginate: 5
 
 # Serving
