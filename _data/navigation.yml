@@ -1,8 +1,10 @@
 - title: "Ontbijt"
   href: "/ontbijt/"
+  icon: "mdi-silverware-spoon"
  
 - title: "Lunch"
   href: "/lunch/"
+  icon: "mdi-silverware-fork"
 #  subcategories:
 #    - subtitle: "Learning topic 1"
 #      subhref: "/learn1/"
@@ -11,14 +13,18 @@
 
 - title: "Diner"
   href: "/diner/"
+  icon: "mdi-silverware-variant"
  
 - title: "Tussendoor"
   href: "/tussendoor/"
+  icon: "mdi-carrot"
  
  
 - title: "Snel klaar"
   href: "/snelklaar/"
+  icon: "mdi-clock-fast"
  
  
 - title: "Artikelen"
   href: "/artikelen/"
+  icon: "mdi-format-float-right"
