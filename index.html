@@ -77,7 +77,6 @@ layout: default
 {% for post in site.posts %}
     {% if post.category != 'artikelen' %}
         {% assign recipes = recipes | push: post %}
-        {% recipes | push: post %}
     {% endif %}
 {% endfor %}
 
