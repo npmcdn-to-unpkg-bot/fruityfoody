@@ -87,7 +87,7 @@ layout: default
                     {% endif %}
                 {% endfor %}
                 
-                {% assign recipes = recipes | pop: 2 %}
+                {% assign recipes = recipes | shift: 2 %}
                 {% for post in recipes %}
                     {{ post.category }} - {{ post.title }} <br>
                 {% endfor %}
