@@ -70,6 +70,24 @@ layout: default
     </div>
 </header>
 
+
+
+{% assign recipes = "one|two" | split: "|" %}
+
+{% for post in site.posts %}
+    {% if post.category != 'artikelen' %}
+        {% assign recipes = recipes | push: post %}
+        {% recipes | push: post %}
+    {% endif %}
+{% endfor %}
+
+{% assign recipes = recipes | pop: 2 %}
+{% for post in recipes %}
+    {{ post.category }} - {{ post.title }} <br>
+{% endfor %}
+
+
+
 <!-- Begin Body -->
 <div class="container">
 	<div class="row">
