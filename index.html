@@ -92,97 +92,97 @@ layout: default
         <div class="col col-sm-8 col-md-9 category-body">
 
 
+        {% assign postRowsLoop = "1,2,3,4" | split: "," %}
+        {% for i in postRowsLoop %}
+            {% assign k = i | times:2 | minus:1 %}
+            {% assign j = k | minus:1 %}
+            {% assign l = i | minus:1 %}
+            
+            {% if recipes_posts[j] %}
             <div class="row">
-
-                {% assign postRowsLoop = "1,2,3,4" | split: "," %}
-                {% for i in postRowsLoop %}
-                    {% assign k = i | times:2 | minus:1 %}
-                    {% assign j = k | minus:1 %}
-                    {% assign l = i | minus:1 %}
-                    
-                    {% if recipes_posts[j] %}
-                    <div class="row">
-                        <div class="col col-md-6">
-                            <div class="panel">
-                                {% if recipes_posts[j].imagehead %}
-                                <div class="image-head">
-                                    <img src="{{ recipes_posts[j].imagehead }}">
-                                </div>
-                                {% endif %}
-                                <h3>{{ recipes_posts[j].title }}</h3>
-                                <p>{{ recipes_posts[j].summary }}</p>
-                            </div>
-                        </div>
-                        {% if recipes_posts[k] %}
-                        <div class="col col-md-6">
-                            <div class="panel">
-                                {% if recipes_posts[k].imagehead %}
-                                <div class="image-head">
-                                    <img src="{{ recipes_posts[k].imagehead }}">
-                                </div>
-                                {% endif %}
-                                <h3>{{ recipes_posts[k].title }}</h3>
-                                <p>{{ recipes_posts[k].summary }}</p>
-                            </div>
+                <div class="col col-md-6">
+                    <div class="panel">
+                        {% if recipes_posts[j].imagehead %}
+                        <div class="image-head">
+                            <img src="{{ recipes_posts[j].imagehead }}">
                         </div>
                         {% endif %}
+                        <h3>{{ recipes_posts[j].title }}</h3>
+                        <p>{{ recipes_posts[j].summary }}</p>
                     </div>
-                    {% endif %}
-                    {% if articles_posts[k] %}
-                    <div class="row">
-                        <div class="col col-xs-12">
-                            <div class="panel">
-                                {% if articles_posts[k].imagehead %}
-                                <div class="image-head">
-                                    <img src="{{ articles_posts[k].imagehead }}">
-                                </div>
-                                {% endif %}
-                                <h3>{{ articles_posts[k].title }}</h3>
-                                <p>{{ articles_posts[k].summary }}</p>
-                            </div>
+                </div>
+                {% if recipes_posts[k] %}
+                <div class="col col-md-6">
+                    <div class="panel">
+                        {% if recipes_posts[k].imagehead %}
+                        <div class="image-head">
+                            <img src="{{ recipes_posts[k].imagehead }}">
                         </div>
+                        {% endif %}
+                        <h3>{{ recipes_posts[k].title }}</h3>
+                        <p>{{ recipes_posts[k].summary }}</p>
                     </div>
-                    {% endif %}
-                    
-                    {% if forloop.last %}
-                        {% assign j = j | plus:2 %}
-                        {% assign k = k | plus:2 %}
-                        {% if recipes_posts[j] %}
-                        <div class="row">
-                            <div class="col col-md-6">
-                                <div class="panel">
-                                    {% if recipes_posts[j].imagehead %}
-                                    <div class="image-head">
-                                        <img src="{{ recipes_posts[j].imagehead }}">
-                                    </div>
-                                    {% endif %}
-                                    <h3>{{ recipes_posts[j].title }}</h3>
-                                    <p>{{ recipes_posts[j].summary }}</p>
-                                </div>
-                            </div>
-                            {% if recipes_posts[k] %}
-                            <div class="col col-md-6">
-                                <div class="panel">
-                                    {% if recipes_posts[k].imagehead %}
-                                    <div class="image-head">
-                                        <img src="{{ recipes_posts[k].imagehead }}">
-                                    </div>
-                                    {% endif %}
-                                    <h3>{{ recipes_posts[k].title }}</h3>
-                                    <p>{{ recipes_posts[k].summary }}</p>
-                                </div>
+                </div>
+                {% endif %}
+            </div>
+            {% endif %}
+            {% if articles_posts[k] %}
+            <div class="row">
+                <div class="col col-xs-12">
+                    <div class="panel">
+                        {% if articles_posts[k].imagehead %}
+                        <div class="image-head">
+                            <img src="{{ articles_posts[k].imagehead }}">
+                        </div>
+                        {% endif %}
+                        <h3>{{ articles_posts[k].title }}</h3>
+                        <p>{{ articles_posts[k].summary }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            
+            {% if forloop.last %}
+                {% assign j = j | plus:2 %}
+                {% assign k = k | plus:2 %}
+                {% if recipes_posts[j] %}
+                <div class="row">
+                    <div class="col col-md-6">
+                        <div class="panel">
+                            {% if recipes_posts[j].imagehead %}
+                            <div class="image-head">
+                                <img src="{{ recipes_posts[j].imagehead }}">
                             </div>
                             {% endif %}
+                            <h3>{{ recipes_posts[j].title }}</h3>
+                            <p>{{ recipes_posts[j].summary }}</p>
                         </div>
-                        {% endif %}
+                    </div>
+                    {% if recipes_posts[k] %}
+                    <div class="col col-md-6">
+                        <div class="panel">
+                            {% if recipes_posts[k].imagehead %}
+                            <div class="image-head">
+                                <img src="{{ recipes_posts[k].imagehead }}">
+                            </div>
+                            {% endif %}
+                            <h3>{{ recipes_posts[k].title }}</h3>
+                            <p>{{ recipes_posts[k].summary }}</p>
+                        </div>
+                    </div>
                     {% endif %}
-                {% endfor %}
+                </div>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        
+        {% for post in recipes_posts %}
+            {{ post.category }} - {{ post.title }} <br>
+        {% endfor %}
                 
-                {% for post in recipes_posts %}
-                    {{ post.category }} - {{ post.title }} <br>
-                {% endfor %}
                 
-                
+            <div class="row">
+
                 <div class="col col-md-6">
                     <div class="panel">
                         <div class="image-head">
