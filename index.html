@@ -92,7 +92,7 @@ layout: default
         <div class="col col-sm-8 col-md-9 category-body">
 
 
-        {% assign postRowsLoop = "1,2,3,4" | split: "," %}
+        {% assign postRowsLoop = "1,2,3" | split: "," %}
         {% for i in postRowsLoop %}
             {% assign k = i | times:2 | minus:1 %}
             {% assign j = k | minus:1 %}
@@ -126,17 +126,17 @@ layout: default
                 {% endif %}
             </div>
             {% endif %}
-            {% if articles_posts[k] %}
+            {% if articles_posts[l] %}
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="panel">
-                        {% if articles_posts[k].imagehead %}
+                        {% if articles_posts[l].imagehead %}
                         <div class="image-head">
-                            <img src="{{ articles_posts[k].imagehead }}">
+                            <img src="{{ articles_posts[l].imagehead }}">
                         </div>
                         {% endif %}
-                        <h3>{{ articles_posts[k].title }}</h3>
-                        <p>{{ articles_posts[k].summary }}</p>
+                        <h3>{{ articles_posts[l].title }}</h3>
+                        <p>{{ articles_posts[l].summary }}</p>
                     </div>
                 </div>
             </div>
