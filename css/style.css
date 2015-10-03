@@ -47,7 +47,7 @@ h1 {
 }
 
 .panel .image-head img {
-    max-width: 100%;
+    width: 100%;
 }
 
 .panel>.table-ingredients {
@@ -68,8 +68,8 @@ h1 {
     padding: 20px 0px 0px;
 }
 
-.category-body .panel .image-head img {
-    width: 100%;
+.category-body .panel h3 {
+    text-decoration: underline;
 }
 
 
