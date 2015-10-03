@@ -46,6 +46,10 @@ h1 {
     max-height: 250px;
 }
 
+.panel .image-head img {
+    max-width: 100%;
+}
+
 .panel>.table-ingredients {
     margin-bottom: 15px;
     margin-top: 5px;
