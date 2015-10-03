@@ -292,7 +292,7 @@ h3.highlight  {
 .slider .image-wrap img {
     position: relative;
     left: -50%;
-    top: -100%;
+    top: -50%;
 }
 .slider input[name='slide_switch'] {
     display: none;
