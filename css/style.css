@@ -46,7 +46,7 @@ h1 {
     max-height: 250px;
 }
 
-.table-ingredients {
+.panel > .table-ingredients {
     margin-bottom: 15px;
     margin-top: 5px;
 }
