@@ -5,6 +5,9 @@ layout: default
 
 {% if uri_category.size == 0 %}
     {% include slideshow.html %}
+    {% assign postRowsLoop = "1,2,3" | split: "," %}
+{% else %}
+    {% assign postRowsLoop = "1,2,3,4,5,6" | split: "," %}
 {% endif %}
 
 {% assign recipes_posts = "1,2" | split: "," %}
@@ -28,8 +31,7 @@ layout: default
     {% endif %}
 {% endfor %}
 {% assign articles_posts = articles_posts | shift: 2 %}
-
-{% assign postRowsLoop = "1,2,3" | split: "," %}
+    
 
 <div class="container">
 	<div class="row">
