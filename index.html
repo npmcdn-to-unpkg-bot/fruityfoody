@@ -6,14 +6,9 @@ layout: overview-page
 {% assign recipes_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
     {% unless post.categories contains 'artikelen' %}
-        ---
-        ---
-        ---
-        --
-        LALALA
         {% if uri_category %}
             {% if post.categories contains uri_category %}
-                {% assign recipes_posts = articles_posts | push: post %}
+                {% assign recipes_posts = recipes_posts | push: post %}
             {% endif %}
         {% else %}
             {% assign recipes_posts = recipes_posts | push: post %}
