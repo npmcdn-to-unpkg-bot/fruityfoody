@@ -4,73 +4,7 @@ layout: default
 {% capture uri_category %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
 
 {% if uri_category.size == 0 %}
-<header class="masthead">
-    <div class="container">
-        <div class="row">
-            <div class="col col-sm-12 hidden-xs">
-                <div class="slider-container panel">
-                    <div class="slider vertical">
-                    {% assign count = 0 %}
-                    {% for post in site.posts %}
-
-                    {% if post.tags contains 'slideshow' %}
-                        {% assign count = count | plus:'1' %}
-                        {% if count <= 5 %}
-                        <input type="radio" name="slide_switch" id="id{{ count }}" {% if count == 1 %}checked="checked"{% endif %}/>
-                        <label for="id{{ count }}">
-                            <span class="image" style="background-image: url('{{ post.imagehead }}')"></span>
-                            <span class="info">
-                                <span class="title">{{ post.title }}</span><br/><br/>
-                                <span class="meta">
-                                {% if post.category == 'ontbijt' %}
-                                    <span class="course"><i class="mdi mdi-silverware-spoon"></i></span>
-                                {% elsif post.category == 'lunch'%}
-                                    <span class="course"><i class="mdi mdi-silverware-fork"></i></span>
-                                {% elsif post.category == 'diner'%}
-                                    <span class="course"><i class="mdi mdi-silverware-variant"></i></span>
-                                {% elsif post.category == 'tussendoor'%}
-                                    <span class="course"><i class="mdi mdi-carrot"></i></span>
-                                {% elsif post.category == 'snelklaar'%}
-                                    <span class="course"><i class="mdi mdi-clock-fast"></i></span>
-                                {% endif %}
-                                {% if post.category == 'snelklaar'%}
-                                    <span class="kind"><i class="mdi mdi-cow"></i></span>
-                                {% endif %}
-                            {% if post.type %}
-                                {% if post.type == 'gevogelte'%}
-                                    <span class="kind"><i class="mdi mdi-duck"></i></span>
-                                {% elsif post.type == 'vegetarisch'%}
-                                    <span class="course"><i class="mdi mdi-leaf"></i></span>
-                                {% elsif post.type == 'vis'%}
-                                    <span class="course"><i class="mdi mdi-fish"></i></span>
-                                {% elsif post.type == 'vlees'%}
-                                    <span class="course"><i class="mdi mdi-cow"></i></span>
-                                {% endif %}
-                            {% endif %}
-                                {% if post.time %}
-                                    <span class="time"><i class="mdi mdi-alarm"></i> {{ post.time }}</span>
-                                {% endif %}
-                                </span>
-                            </span>
-                        </label>
-                        <a href="{{ post.url }}">
-                            <span class="image-wrap">
-                                <img src="{{ post.imagehead }}"/>
-                            </span>
-                            <span class="info">
-                                <span class="title">{{ post.title }}</span>
-                            </span>
-                        </a>
-                        {% endif %}
-                    {% endif %}
-                    
-                    {% endfor %}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+    {% include slideshow.html %}
 {% endif %}
 
 {% assign recipes_posts = "1,2" | split: "," %}
