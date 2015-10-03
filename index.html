@@ -2,7 +2,7 @@
 layout: overview-page
 ---
 {% capture uri_category %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
-{{ uri_category }}
+
 {% assign recipes_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
     {% unless post.categories contains 'artikelen' %}
@@ -27,7 +27,7 @@ layout: overview-page
 
 <div class="col col-sm-8 col-md-9 category-body">
 
-
+ - {{ uri_category }} -
 {% assign postRowsLoop = "1,2,3" | split: "," %}
 {% for i in postRowsLoop %}
     {% assign k = i | times:2 | minus:1 %}
