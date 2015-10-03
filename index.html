@@ -80,10 +80,10 @@ layout: overview-page
                 <div class="panel">
                     {% if recipes_posts[j].imagehead %}
                     <div class="image-head">
-                        <img src="{{ recipes_posts[j].imagehead }}">
+                        <a href="{{recipes_posts[i].url}}"><img src="{{ recipes_posts[j].imagehead }}"></a>
                     </div>
                     {% endif %}
-                    <h3>{{ recipes_posts[j].title }}</h3>
+                    <h3><a href="{{recipes_posts[i].url}}">{{ recipes_posts[j].title }}</a></h3>
                     <p>{{ recipes_posts[j].summary }}</p>
                 </div>
             </div>
