@@ -1,4 +1,5 @@
 {% capture location %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
+{% if page.menu_item %}{% assign location = page.menu_item %}{% endif %}
 <nav class="navbar navbar-default navbar-static-top">
     <div class="container">
         <div class="navbar-header">
