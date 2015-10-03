@@ -7,9 +7,9 @@ tags:
  - slideshow
 type: vegetarisch
 time: 2 uur
-imagehead: "img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120"
+imagehead: "/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120"
 images:
- - img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120
+ - /img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120
  - /img/notenlasagna/img_0936.jpg?rotate=270&affine=0.55,0,0,0.55,0,0,900,500,90,200
 summary: "Heerlijke vegetarische notenlasagne voor 4 personen.
 Deze lagagne heeft gegrilde aubergineplakjes in plaats van pasta lasagnebladen.
