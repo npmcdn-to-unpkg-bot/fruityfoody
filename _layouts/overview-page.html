@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+{% capture uri_category %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
 
+{% if uri_category.size == 0 %}
 <header class="masthead">
     <div class="container">
         <div class="row">
@@ -69,9 +71,7 @@ layout: default
         </div>
     </div>
 </header>
-
-	    
-{% capture uri_category %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
+{% endif %}
 
 {% assign recipes_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
