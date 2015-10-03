@@ -1,13 +1,13 @@
 ---
 layout: recipe
-title: Test 2
-menu_item: lunch
-category: lunch
+title: Vegetarische notenlasagna
+menu_item: diner
+category: diner
 tags:
  - slideshow
-type: vlees
-time: 45 minuten
-imagehead: "/img/pasta.jpg"
+type: vegetarisch
+time: 2 uur
+imagehead: "/img/pasta.jpg?rotate=270&affine=0.55,0,0,0.55,0,0,900,500,90,200"
 summary: "Samenvatting van test2. Totam rem aperiam,
 eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
