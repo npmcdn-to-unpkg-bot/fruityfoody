@@ -47,14 +47,15 @@ h1 {
 }
 
 .panel .image-head:before {
-  content: '';
-  display: inline-block;
-  height: 100%;
-  vertical-align: middle;
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
 }
 
 .panel .image-head img {
     width: 100%;
+    display: inline-block;
 }
 
 .panel>.table-ingredients {
