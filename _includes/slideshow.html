@@ -12,7 +12,7 @@
                         {% if count <= 5 %}
                         <input type="radio" name="slide_switch" id="id{{ count }}" {% if count == 1 %}checked="checked"{% endif %}/>
                         <label for="id{{ count }}">
-                            <span class="image" style="background-image: url('{{ post.imagehead }}')"></span>
+                            <span class="image" style="background-image: url('{{ site.image_uri_prefix }}{{ post.imagehead }}')"></span>
                             <span class="info">
                                 <span class="title">{{ post.title }}</span><br/><br/>
                                 <span class="meta">
@@ -27,18 +27,15 @@
                                 {% elsif post.category == 'snelklaar'%}
                                     <span class="course"><i class="mdi mdi-clock-fast"></i></span>
                                 {% endif %}
-                                {% if post.category == 'snelklaar'%}
-                                    <span class="kind"><i class="mdi mdi-cow"></i></span>
-                                {% endif %}
                             {% if post.type %}
                                 {% if post.type == 'gevogelte'%}
                                     <span class="kind"><i class="mdi mdi-duck"></i></span>
                                 {% elsif post.type == 'vegetarisch'%}
-                                    <span class="course"><i class="mdi mdi-leaf"></i></span>
+                                    <span class="kind"><i class="mdi mdi-leaf"></i></span>
                                 {% elsif post.type == 'vis'%}
-                                    <span class="course"><i class="mdi mdi-fish"></i></span>
+                                    <span class="kind"><i class="mdi mdi-fish"></i></span>
                                 {% elsif post.type == 'vlees'%}
-                                    <span class="course"><i class="mdi mdi-cow"></i></span>
+                                    <span class="kind"><i class="mdi mdi-cow"></i></span>
                                 {% endif %}
                             {% endif %}
                                 {% if post.time %}
@@ -49,7 +46,7 @@
                         </label>
                         <a href="{{ post.url }}">
                             <span class="image-wrap">
-                                <img src="{{ post.imagehead }}"/>
+                                <img src="{{ site.image_uri_prefix }}{{ post.imagehead }}"/>
                             </span>
                             <span class="info">
                                 <span class="title">{{ post.title }}</span>
