@@ -6,6 +6,7 @@ description: > #ignore newlines until "baseurl:"
 url: "http://localhost:4000"
 twitter_username: FruityFoodie
 paginate: 5
+images_hostname: "eggplant-chinchilla1.cloudvent.net.rsz.io"
 
 # Serving
 detach:  false
