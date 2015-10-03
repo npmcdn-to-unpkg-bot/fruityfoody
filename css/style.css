@@ -46,6 +46,11 @@ h1 {
     max-height: 250px;
 }
 
+.table-ingredients {
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
 .panel.muut {
     background-color: rgba(255, 255, 255, 0.5);
 }
