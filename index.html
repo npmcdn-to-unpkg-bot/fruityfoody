@@ -1,18 +1,19 @@
 ---
 layout: overview-page
 ---
+{% capture uri_category %}{{ page.url | replace:'index.html','' | remove_first:'/' | split:'/' | first }}{% endcapture %}
 
 {% assign recipes_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
-    {% if post.category != 'artikelen' %}
+    {% unless post.categories contains 'artikelen' %}
         {% assign recipes_posts = recipes_posts | push: post %}
-    {% endif %}
+    {% endunless %}
 {% endfor %}
 {% assign recipes_posts = recipes_posts | shift: 2 %}
 
 {% assign articles_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
-    {% if post.category == 'artikelen' %}
+    {% if post.categories contains 'artikelen' %}
         {% assign articles_posts = articles_posts | push: post %}
     {% endif %}
 {% endfor %}
