@@ -89,17 +89,19 @@ Snijd/knip de zongedroogde tomaten klein en doe in keukenmachine, voeg tomatenpu
 Voeg dit mengsel bij de gehakte noten en roer goed. Ht is nu een dik 'deeg'. Voeg saus van gegrilde groenten of tomatensaus (=blikje tomaatstukjes waar je de staafmixer even op hebt gezet) toe tot de saus dunner is, maar wel zo stevig dat deze in een vorm blijft staan en niet uitzakt. Bij mij was hier ongeveer 400 ml voor nodig, maar dit kan verschillen afhankelijk van hoe dik/waterig de saus is.  
 
 **De lasagne:**
- - Vet een ovenschaal in, bedek de bodem met 1/3 van de rode saus
- - Leg hier overheen een laag aubergine plakken (de helft)
- - Daar overheen spreid je een laag witte saus (de helft)
- - Vervolgens een laag tomaatplakjes (de helft)
- - Weer een laag van 1/3 van de rode saus
- - Laag aubergineplakjes (andere helft, ze zijn nu dus op)
- - Weer een laag witte saus (de tweede helft, deze is nu ook op)
- - Laag tomaatplakjes (tweede helft, dus alles wat nog over was)
- - Dek dit af met het laatste van de rode saus
- - smeer een scheut yoghurt over de rode saus
- - Dek af met de geraspte oude kaas
+
+
+- Vet een ovenschaal in, bedek de bodem met 1/3 van de rode saus
+- Leg hier overheen een laag aubergine plakken (de helft)
+- Daar overheen spreid je een laag witte saus (de helft)
+- Vervolgens een laag tomaatplakjes (de helft)
+- Weer een laag van 1/3 van de rode saus
+- Laag aubergineplakjes (andere helft, ze zijn nu dus op)
+- Weer een laag witte saus (de tweede helft, deze is nu ook op)
+- Laag tomaatplakjes (tweede helft, dus alles wat nog over was)
+- Dek dit af met het laatste van de rode saus
+- smeer een scheut yoghurt over de rode saus
+- Dek af met de geraspte oude kaas
 
 Zet het geheel 35 minuten in de over op 200 graden.
 
