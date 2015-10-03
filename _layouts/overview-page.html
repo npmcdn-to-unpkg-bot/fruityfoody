@@ -29,12 +29,14 @@ layout: default
 {% endfor %}
 {% assign articles_posts = articles_posts | shift: 2 %}
 
+{% assign postRowsLoop = "1,2,3" | split: "," %}
+
 <div class="container">
 	<div class="row">
         <div class="col col-sm-8 col-md-9 category-body">
+        
         {{ content }}
         
-        {% assign postRowsLoop = "1,2,3" | split: "," %}
         {% for i in postRowsLoop %}
             {% assign k = i | times:2 | minus:1 %}
             {% assign j = k | minus:1 %}
