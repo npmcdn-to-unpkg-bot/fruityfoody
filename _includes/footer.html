@@ -2,6 +2,8 @@
 {% assign current = page_url | split: '/' %}
 
 {% assign muut_paths = "1,2" | split: "," %}
+{% assign muut_page_data = "1,2" | split: "," %}
+{% assign muut_pages = "1,2" | split: "," %}
 {% for post in site.posts %}
     {% unless post.categories contains 'artikelen' %}
         {% capture muut_path %}/fruityfoody/comments/{{ post.id | replace_first: '/','' | split: '/' | pop | join: '_' }}:{{ post.id | split: '/' | last }}{% endcapture %}
