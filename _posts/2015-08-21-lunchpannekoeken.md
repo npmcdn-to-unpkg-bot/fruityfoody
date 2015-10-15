@@ -32,10 +32,10 @@ images:
 
 <div class="row">
     <div class="col col-md-6">
-        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900"/>
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=450"/>
     </div>
     <div class="col col-md-6">
-        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900"/>
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0977.jpg?width=450"/>
     </div>
 </div>
 
@@ -77,6 +77,13 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 | Peper en zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
-![pannekoeken met abrikozenvulling]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900)
+<div class="row">
+    <div class="col col-md-6">
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=450"/>
+    </div>
+    <div class="col col-md-6">
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_1046.jpg?width=450"/>
+    </div>
+</div>
 
 
