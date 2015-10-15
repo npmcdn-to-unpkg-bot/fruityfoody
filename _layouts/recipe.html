@@ -5,10 +5,7 @@ layout: page
     <div class="panel">
     {% if page.imagehead %}
         <div class="image-head">
-            <img 
-            style="{% if page.imagehead_margintop %}margin-top: {{page.imagehead_margintop}};{% endif %}"
-            src="{{ site.image_uri_prefix }}{{page.imagehead}}"
-            />
+            <img src="{{ site.image_uri_prefix }}{{page.imagehead}}"/>
         </div>
     {% endif %}
         {{ content }}
