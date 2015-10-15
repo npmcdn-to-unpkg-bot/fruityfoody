@@ -22,8 +22,8 @@ images:
 | Pannekoeken: |
 | --- |
 | 4 eieren |
-| 80 gram boekweitmeel |
-| 150 ml melk |
+| 80 gram boekweit- of kikkererwtenmeel |
+| 150 ml (amandel)melk |
 | 2 theelepels verse geraspte gember |
 | 1 eetlepel citroensap |
 | snufje zout |
