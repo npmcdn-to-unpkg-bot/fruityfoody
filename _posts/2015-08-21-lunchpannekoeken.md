@@ -20,7 +20,7 @@ images:
 #### Ingredi&euml;nten
 
 {:.table .table-condensed .table-responsive .table-ingredients}
-| Pannekoeken: |ß
+| Pannekoeken: |
 | --- |
 | 4 eieren |
 | 80 gram boekweit- of kikkererwtenmeel |
