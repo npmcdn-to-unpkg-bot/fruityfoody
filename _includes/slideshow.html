@@ -12,7 +12,7 @@
                         {% if count <= 5 %}
                         <input type="radio" name="slide_switch" id="id{{ count }}" {% if count == 1 %}checked="checked"{% endif %}/>
                         <label for="id{{ count }}">
-                            <span class="image" style="background-image: url('{{ site.image_uri_prefix }}{{ post.imagehead }}')"></span>
+                            <span class="image" style="background-image: url('{{ site.image_uri_prefix }}{{ post.slideshowimage }}')"></span>
                             <span class="info">
                                 <span class="title">{{ post.title }}</span><br/><br/>
                                 <span class="meta">
@@ -46,7 +46,7 @@
                         </label>
                         <a href="{{ post.url }}">
                             <span class="image-wrap">
-                                <img src="{{ site.image_uri_prefix }}{{ post.imagehead }}"/>
+                                <img src="{{ site.image_uri_prefix }}{{ post.slideshowimage }}"/>
                             </span>
                             <span class="info">
                                 <span class="title">{{ post.title }}</span>
