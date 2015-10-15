@@ -1,10 +1,28 @@
 ---
 layout: recipe
 title: Test artikel
-menu_item: artikelen
-category: artikelen
-#imagehead: "/img/pasta.jpg"
+menu_item: lunch
+category: lunch
+tags:
+ - slideshow
+type: vegetarisch
+time: 30 minuten
+imagehead: "img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
+images:
+ - img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
 ---
-### Mooi artikel
+### Lunchpannekoeken
 
-Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+---
+
+#### Ingredi&euml;nten
+
+{:.table .table-condensed .table-responsive .table-ingredients}
+| Pannekoeken: |
+| --- |
+| 4 eieren |
+| 80 gram boekweitmeel |
+| 150 ml melk |
+| 2 theelepels verse geraspte gember |
+| 1 eetlepel citroensap |
+| snufje zout |
