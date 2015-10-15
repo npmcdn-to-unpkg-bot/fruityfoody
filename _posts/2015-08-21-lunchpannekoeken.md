@@ -34,6 +34,8 @@ Klop de eieren los met de melk. Voeg hierbij de rest van de ingredienten en roer
 
 Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling die jij kiest. Ik heb 3 opties omschreven maar je kunt natuurlijk eindeloos varieren met ingredienten die jij lekker vind. Ook beleggen met vlees en/of kaas en rauwkost of een optie. Zoet beleg zoals vres fruit kan ook, bijvoorbeeld roomkaas, banaan, walnoot en kaneel.
 
+---
+
 #### Vulling
 
 {:.table .table-condensed .table-responsive .table-ingredients}
