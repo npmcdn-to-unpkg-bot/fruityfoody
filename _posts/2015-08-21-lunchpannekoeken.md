@@ -20,7 +20,7 @@ images:
 #### Ingredi&euml;nten
 
 {:.table .table-condensed .table-responsive .table-ingredients}
-| Pannekoeken: |
+| Pannekoeken: |ß
 | --- |
 | 4 eieren |
 | 80 gram boekweit- of kikkererwtenmeel |
@@ -30,9 +30,13 @@ images:
 | snufje zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
-<div class="imgrow">
-    <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900"/>
-    <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900"/>
+<div class="row">
+    <div class="col col-md-6">
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900"/>
+    </div>
+    <div class="col col-md-6">
+        <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900"/>
+    </div>
 </div>
 
 #### Bereiding
