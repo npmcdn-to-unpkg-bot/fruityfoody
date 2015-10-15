@@ -30,7 +30,7 @@ images:
 | snufje zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
-![ingredi&euml;nten]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg)
+![ingredi&euml;nten]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900)
 
 #### Bereiding
 
@@ -69,3 +69,7 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 | Flinke handvol bladsla of spinazie |
 | Peper en zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
+
+![pannekoeken met abrikozenvulling]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900)
+
+
