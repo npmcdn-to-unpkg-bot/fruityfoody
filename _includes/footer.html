@@ -1,12 +1,30 @@
 {% assign page_url = page.url | downcase %}
 {% assign current = page_url | split: '/' %}
+
+{% assign muut_paths = "1,2" | split: "," %}
+{% for post in site.posts %}
+    {% unless post.categories contains 'artikelen' %}
+        {% capture muut_path %}/fruityfoody/comments{{ page.id | pop | join: '/' }}:{{ page.id | split: '/' | last }}{% endcapture %}
+        {% assign muut_paths = muut_paths | push: muut_path %}
+    {% endunless %}
+{% endfor %}
+{% assign muut_paths = muut_paths | shift: 2 %}
 <div id="footer">
     <div class="footer"></div>
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-<script src="/js/scripts.js"></script>
+<script src="/js/scripts.js">
+    var url = "//api.muut.com/postcounts?path={{muut_paths | join '&path='}}";
+
+    $.getJSON(url, function(json) {
+        var results = $("#results");
+        $.each(json, function(key, val) {
+            results.append("<dt>" + key + "</dt><dd>" + val["size"] + "</dd>");
+        });
+    });
+</script>
 {% if page_url == '/index.html' %}
 <!-- homepage -->
 {% elsif current[1] == 'ontbijt' or current[1] == 'lunch' or current[1] == 'diner' or current[1] == 'tussendoor' or current[1] == 'snelklaar'%}
