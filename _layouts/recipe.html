@@ -3,7 +3,14 @@ layout: page
 ---
 <div class="col col-sm-8 col-md-9 post-body">
     <div class="panel">
-        {% if page.imagehead %}<div class="image-head"><img src="{{ site.image_uri_prefix }}{{page.imagehead}}"></div>{% endif %}
+    {% if page.imagehead %}
+        <div class="image-head">
+            <img 
+            style="{% if page.imagehead_margintop %}margin-top: {{page.imagehead_margintop-top}};{% endif %}"
+            src="{{ site.image_uri_prefix }}{{page.imagehead}}"
+            />
+        </div>
+    {% endif %}
         {{ content }}
     </div>
     
