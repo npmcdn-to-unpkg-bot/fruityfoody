@@ -55,7 +55,8 @@ h1 {
     margin-bottom: 15px;
     margin-top: 5px;
 }
-.panel > p img {
+.panel > p img,
+.panel div.row img{
     max-width: 100%;
 }
 
