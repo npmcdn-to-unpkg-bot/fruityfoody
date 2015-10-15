@@ -37,6 +37,7 @@
         console.log(results);
         $.each(results, function(key, val) {
             containerEl.append('<li><a href="#">' + val.path + '</a></li>');
+            return index < 4;
         });
     });
 </script>
