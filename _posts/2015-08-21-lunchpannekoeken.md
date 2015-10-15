@@ -19,6 +19,7 @@ images:
 
 #### Ingredi&euml;nten
 
+{:.table .table-condensed .table-responsive .table-ingredients}
 | Pannekoeken: |
 | --- |
 | 4 eieren |
@@ -29,7 +30,7 @@ images:
 | snufje zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
-#### ![](/uploads/versions/img_0973---x----2592-1936x---.jpg)
+![]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg)
 
 #### Bereiding
 
@@ -41,6 +42,7 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 
 #### Vulling
 
+{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 1 (2 pannekoekjes): |
 | --- |
 | 4 rondjes zachte geitenkaas |
@@ -49,6 +51,7 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 | 5 gedroogde abrikozen in kleine stukjes |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
+{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 2 (2 pannekoekjes): |
 | --- |
 | 1 avocado |
@@ -57,6 +60,7 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 | Wat peper en zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
+{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 3 (2 pannekoekjes): |
 | --- |
 | 50 gram gerookte zalm |
