@@ -4,7 +4,7 @@
 {% assign muut_paths = "1,2" | split: "," %}
 {% for post in site.posts %}
     {% unless post.categories contains 'artikelen' %}
-        {% capture muut_path %}/fruityfoody/comments{{ post.id | split: '/' | pop | join: '_' }}:{{ post.id | split: '/' | last }}{% endcapture %}
+        {% capture muut_path %}/fruityfoody/comments/{{ post.id | replace_first: '/','' | split: '/' | pop | join: '_' }}:{{ post.id | split: '/' | last }}{% endcapture %}
         {{ muut_path }}
         {% assign muut_paths = muut_paths | push: muut_path %}
     {% endunless %}
