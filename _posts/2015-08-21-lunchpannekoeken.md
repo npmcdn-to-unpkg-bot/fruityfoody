@@ -7,7 +7,7 @@ tags:
  - slideshow
 type: vegetarisch
 time: 30 minuten
-imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
+imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,450,0,100"
 slideshowimage: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
 images:
  - /img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
