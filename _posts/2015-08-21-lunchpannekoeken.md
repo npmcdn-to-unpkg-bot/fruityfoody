@@ -30,7 +30,7 @@ images:
 | snufje zout |
 {: .table.table-condensed.table-responsive.table-ingredients}
 
-![]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg)
+![ingredi&euml;nten]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg)
 
 #### Bereiding
 
