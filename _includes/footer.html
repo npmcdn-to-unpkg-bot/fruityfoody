@@ -25,11 +25,12 @@
         $.each(json, function(key, val) {
             results.push({"path": key, "size": val['size']});
         });
+        console.log(results);
         results.sort(function (a,b) {
             if (a.size < b.size)
-                return -1;
-            if (a.size > b.size)
                 return 1;
+            if (a.size > b.size)
+                return -1;
             return 0;
         });
         console.log(results);
