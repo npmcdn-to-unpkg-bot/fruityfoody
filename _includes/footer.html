@@ -47,7 +47,7 @@
         });
         $.each(results, function(key, val) {
             containerEl.append('<li><a href="' + pages[val.path].url + '">' + pages[val.path].title + '</a></li>');
-            return index < 4;
+            return key < 4;
         });
     });
 </script>
