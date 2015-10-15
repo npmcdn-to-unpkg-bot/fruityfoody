@@ -19,6 +19,7 @@
 <script src="/js/scripts.js"></script>
 <script>
     var url = "//api.muut.com/postcounts?path={{muut_paths | join: '&path='}}";
+    var containerEl = $('#most-commented');
 
     $.getJSON(url, function(json) {
         var results = [];
@@ -35,7 +36,7 @@
         });
         console.log(results);
         $.each(results, function(key, val) {
-            results.append('<li><a href="#">' + val.path + '</a></li>');
+            containerEl.append('<li><a href="#">' + val.path + '</a></li>');
         });
     });
 </script>
