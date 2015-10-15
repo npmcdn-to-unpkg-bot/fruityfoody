@@ -12,13 +12,13 @@ slideshowimage: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,5
 images:
  - /img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
 ---
+
 ### Lunchpannekoeken
 
 ---
 
 #### Ingredi&euml;nten
 
-{:.table .table-condensed .table-responsive .table-ingredients}
 | Pannekoeken: |
 | --- |
 | 4 eieren |
@@ -27,6 +27,9 @@ images:
 | 2 theelepels verse geraspte gember |
 | 1 eetlepel citroensap |
 | snufje zout |
+{: .table.table-condensed.table-responsive.table-ingredients}
+
+#### ![](/uploads/versions/img_0973---x----2592-1936x---.jpg)
 
 #### Bereiding
 
@@ -38,23 +41,22 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 
 #### Vulling
 
-{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 1 (2 pannekoekjes): |
 | --- |
 | 4 rondjes zachte geitenkaas |
 | Enkele blaadjes ijsbergsla |
 | Handvol alfalfa |
 | 5 gedroogde abrikozen in kleine stukjes |
+{: .table.table-condensed.table-responsive.table-ingredients}
 
-{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 2 (2 pannekoekjes): |
 | --- |
 | 1 avocado |
 | 1 of 2 trostomaten |
 | 100 gram h&uuml;ttek&auml;se |
 | Wat peper en zout |
+{: .table.table-condensed.table-responsive.table-ingredients}
 
-{:.table .table-condensed .table-responsive .table-ingredients}
 | Vulling 3 (2 pannekoekjes): |
 | --- |
 | 50 gram gerookte zalm |
@@ -62,15 +64,4 @@ Bak er 4 tot 6 pannekoekjes van. Laat deze afkoelen en beleg dan met de vulling 
 | Verse roomkaas |
 | Flinke handvol bladsla of spinazie |
 | Peper en zout |
-
-
-
-
-
-
-
-
-
-
-
-
+{: .table.table-condensed.table-responsive.table-ingredients}
