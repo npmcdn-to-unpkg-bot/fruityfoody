@@ -19,9 +19,19 @@
     var url = "//api.muut.com/postcounts?path={{muut_paths | join '&path='}}";
 
     $.getJSON(url, function(json) {
-        var results = $("#results");
+        var results = [];
         $.each(json, function(key, val) {
-            results.append("<dt>" + key + "</dt><dd>" + val["size"] + "</dd>");
+            results.push({"path": key, "size": val['size']});
+        });
+        results.sort(function (a,b) {
+            if (a.size < b.size)
+                return -1;
+            if (a.size > b.size)
+                return 1;
+            return 0;
+        });
+        $.each(results, function(key, val) {
+            results.append('<li><a href="#">' + val.path + '</a></li>');
         });
     });
 </script>
