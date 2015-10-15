@@ -8,7 +8,7 @@ tags:
 type: vegetarisch
 time: 30 minuten
 imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
-imagehead_margin-top: -165px
+imagehead_margintop: -165px
 images:
  - /img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
 ---
