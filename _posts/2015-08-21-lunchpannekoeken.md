@@ -31,11 +31,8 @@ images:
 {: .table.table-condensed.table-responsive.table-ingredients}
 
 <div class="imgrow">
-
-![ingredi&euml;nten]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900)
-
-![pannekoeken met abrikozenvulling]({{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900)
-
+    <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0973.jpg?width=900"/>
+    <img src="{{ site.image_uri_prefix }}/img/lunchpannekoek/img_0982.jpg?width=900"/>
 </div>
 
 #### Bereiding
