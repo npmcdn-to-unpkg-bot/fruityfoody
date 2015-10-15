@@ -1,9 +1,6 @@
 ---
 layout: page
 ---
-{% assign page_id_data = page.id | split: '/' %}
-{% assign page_id_title = page_id_data | last %}
-{% assign page_id_cats = page_id_data | pop | join: '/' %}
 <div class="col col-sm-8 col-md-9 post-body">
     <div class="panel">
         {% if page.imagehead %}<div class="image-head"><img src="{{ site.image_uri_prefix }}{{page.imagehead}}"></div>{% endif %}
@@ -11,7 +8,7 @@ layout: page
     </div>
     
     <div class="panel muut">
-        <a class="muut" href="https://muut.com/i/fruityfoody/comments{{page_id_cats}}:{{page_id_title}}">fruityfoody forum</a>
+        <a class="muut" href="https://muut.com/i/fruityfoody/comments{% page.id | pop | join: '/' %}:{% page.id | split: '/' | last %}">fruityfoody forum</a>
     </div>
 </div>
 
