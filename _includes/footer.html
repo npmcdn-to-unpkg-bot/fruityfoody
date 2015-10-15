@@ -61,8 +61,8 @@ $(document).ready(function(){
     });
 });
 </script>
-{% elsif current[1] == 'ontbijt' or current[1] == 'lunch' or current[1] == 'diner' or current[1] == 'tussendoor' or current[1] == 'snelklaar'%}
-<!-- recipe -->
+{% else %}
+<!-- nothome -->
 <script>
 $(document).ready(function(){
     $('#sidebar').affix({
@@ -72,5 +72,9 @@ $(document).ready(function(){
     });
 });
 </script>
+{% endif %}
+
+{% if current[1] == 'ontbijt' or current[1] == 'lunch' or current[1] == 'diner' or current[1] == 'tussendoor' or current[1] == 'snelklaar'%}
+<!-- recipe -->
 <script src="//cdn.muut.com/1/moot.nl.min.js"></script>
 {% endif %}
