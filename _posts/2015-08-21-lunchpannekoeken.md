@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Test artikel
+title: Lunchpannekoeken
 menu_item: lunch
 category: lunch
 tags:
