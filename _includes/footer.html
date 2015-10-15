@@ -25,9 +25,7 @@
     var url = "//api.muut.com/postcounts?path={{muut_paths | join: '&path='}}";
     var containerEl = $('#most-commented');
     var pageData = [
-    {% for json in muut_pages_json %}
-        {{ json }}{% if forloop.last == false %},{% endif %}
-    {% endfor %}
+        {% for json in muut_pages_json %}{{ json }}{% if forloop.last == false %},{% endif %}{% endfor %}
     ];
 
     $.getJSON(url, function(json) {
