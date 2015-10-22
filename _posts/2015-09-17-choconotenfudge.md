@@ -2,11 +2,11 @@
 layout: recipe
 title: Chocolade noten fudge
 menu_item: tussendoor
-category: tussendoor
+category: [tussendoor, snelklaar]
 tags:
  - slideshow
 type: vegetarisch
-time: 30 minuten
+time: 45 minuten
 imagehead: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
 slideshowimage: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
 images:
