@@ -2,7 +2,7 @@
 layout: recipe
 title: American pancakes
 menu_item: ontbijt
-category: [ontbijt,lunch]
+category: [ontbijt,lunch,snelklaar]
 tags:
  - slideshow
 type: vegetarisch
