@@ -13,7 +13,7 @@ images:
  - /img/american_pancakes/img_1392.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
 ---
 
-### Test 3
+### American pancakes
 
 ---
 
