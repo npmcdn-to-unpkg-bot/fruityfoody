@@ -1,19 +1,16 @@
 ---
 layout: recipe
-title: Test 3
-menu_item: snelklaar
-categories:
-  - diner
-  - snelklaar
+title: American pancakes
+menu_item: ontbijt
+category: [ontbijt,lunch]
 tags:
-  - slideshow
-type: gevogelte
-time: heeeeeel lang
-imagehead: "/img/pasta.jpg"
-summary: "Samenvatting van test3. Totum rem aperiam,
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt."
+ - slideshow
+type: vegetarisch
+time: 30 minuten
+imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,450,0,100"
+slideshowimage: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
+images:
+ - /img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
 ---
 
 ### Test 3
@@ -23,13 +20,27 @@ sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt."
 #### Ingredi&euml;nten
 
 {:.table .table-condensed .table-responsive .table-ingredients}
-| Topping: |
+| Beslag: |
 | --- |
-| 500 gram speltbloem |
-| 2 aubergines |
-| 3 eieren |
-| 200 gram geraspte kaas |
+| 65 gram speltbloem of boekweitmeel |
+| 65 gram amandelmeel |
+| 25 gram havermeel of kokosmeel |
+| 1 eetlepel bakpoeder |
+| geprakte overrijpe banaan |
+| klont gesmolten roomboter |
+| 2 eieren |
+| 200 ml melk (of kokosmelk of amandelmelk) |
+| snufje zout |
+| iets stevia en/of honing |
+
 
 #### Bereiding
 
-Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Eiwit van geel scheiden, eiwitten stijf opkloppen.
+Gesmolten boter en melk mengen,  dan de eigelen erbij. Hierbij voeg je wat honing/stevia naar smaak (de banaan is ook al zoet, dus veel heb je niet nodig).  
+
+Droge ingredienten mengen (kokosmeel erdoor zeven, want dat klontert snel.) Alles behalve de eiwitten goed door elkaar roeren, ook de geprakte banaan. Als laatste voorzichtig de opgeklopte eiwitten door het deeg scheppen met een spatel tot net gemengd.  
+
+Dan deeg in kleine schepjes in een hete koekenpan. Omkeren als in de bovenkant belletjes/kleine luchtgaatjes ontstaan. Alsde onderkant te snel gaat het vuur iets lager zetten.  
+
+Serveren met wat roomboter/vers fruit/opgeklopt kokoscreme en kaneel/griekse yoghurt.
