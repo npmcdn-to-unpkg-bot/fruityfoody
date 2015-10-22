@@ -15,6 +15,8 @@ images:
 
 ### American pancakes
 
+{% if page.summary %}{{ page.summary }}{% endif %}
+
 ---
 
 #### Ingredi&euml;nten
