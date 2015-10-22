@@ -43,4 +43,8 @@ Droge ingredienten mengen (kokosmeel erdoor zeven, want dat klontert snel.) Alle
 
 Dan deeg in kleine schepjes in een hete koekenpan. Omkeren als in de bovenkant belletjes/kleine luchtgaatjes ontstaan. Alsde onderkant te snel gaat het vuur iets lager zetten.  
 
-Serveren met wat roomboter/vers fruit/opgeklopt kokoscreme en kaneel/griekse yoghurt.
+Serveren met bijvoorbeeld:
+ - roomboter
+ - vers fruit
+ - opgeklopt kokoscreme en kaneel
+ - griekse yoghurt
