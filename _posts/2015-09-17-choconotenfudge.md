@@ -11,6 +11,10 @@ imagehead: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,
 slideshowimage: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
 images:
  - /img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20
+summary: "Wie zegt dat snoepen niet gezond kan zijn?
+Hier een recept voor fudge met allemaal gezonde ingredi&euml;nten.
+Wist jij dat cacao heel goed voor je is?"
+---
 
 ### Chocolade noten fudge
 
