@@ -14,6 +14,8 @@ images:
 
 ### Chocolade noten fudge
 
+{% if page.summary %}{{ page.summary }}{% endif %}
+
 ---
 
 #### Ingredi&euml;nten
