@@ -11,6 +11,9 @@ imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,450,0,
 slideshowimage: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
 images:
  - /img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
+summary: "Gezonde meel, melk en eieren zijn de basis voor deze hartige pannekoeken.
+Een gezonde en lekkere basis om te combineren met verschillende vullingen.
+Ik heb er 3 genoemd, heb jij nog lekkere idee&euml;n, laat het weten in de reacties."
 ---
 
 ### Lunchpannekoeken
