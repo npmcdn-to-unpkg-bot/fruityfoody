@@ -20,7 +20,7 @@ Zo lekker dat je niet eens merkt dat er geen vlees in zit."
 
 ### Vegetarische notenlasagna
 
-{% if page.summary %}{{ page.summary }}  {% endif %}
+{% if page.summary %}{{ page.summary }}{% endif %}
 
 ---
 
