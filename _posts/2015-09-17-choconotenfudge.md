@@ -2,7 +2,7 @@
 layout: recipe
 title: Chocolade noten fudge
 menu_item: tussendoor
-category: [tussendoor, snelklaar]
+category: tussendoor
 tags:
  - slideshow
 type: vegetarisch
