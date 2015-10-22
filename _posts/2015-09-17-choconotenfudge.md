@@ -7,10 +7,10 @@ tags:
  - slideshow
 type: vegetarisch
 time: 30 minuten
-imagehead: "/img/choconotenfudge/img_1464.jpg?affine=0.35,0,0,0.35,0,0,900,450,0,100"
-slideshowimage: "/img/choconotenfudge/img_1464.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0"
+imagehead: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
+slideshowimage: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
 images:
- - /img/choconotenfudge/img_1464.jpg?affine=0.35,0,0,0.35,0,0,900,550,0,0
+ - /img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20
 
 ### Chocolade noten fudge
 
