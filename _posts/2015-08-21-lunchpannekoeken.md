@@ -15,6 +15,8 @@ images:
 
 ### Lunchpannekoeken
 
+{% if page.summary %}{{ page.summary }}{% endif %}
+
 ---
 
 #### Ingredi&euml;nten
