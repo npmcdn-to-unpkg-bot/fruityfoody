@@ -1,16 +1,20 @@
 ---
 layout: recipe
 title: Bosbessen zomertaart
-menu_item: ontbijt
-category: [ontbijt,lunch,snelklaar]
+menu_item: tussendoor
+category:
+  - tussendoor
+  - snelklaar
 tags:
- - slideshow
+  - slideshow
 type: vegetarisch
-time: 30 minuten
-imagehead: '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-slideshowimage: '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
+time:
+imagehead: '/img/bosbes_zomertaart/zomertaart.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
+slideshowimage: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
 images:
   - '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
   - '/img/notenlasagna/img_0936.jpg?rotate=270&affine=0.55,0,0,0.55,0,0,900,500,90,200'
-summary: Heerlijke vegetarische notenlasagne voor 4 personen. Deze lagagne heeft gegrilde aubergineplakjes in plaats van pasta lasagnebladen. Daarnaast bevat het noten voor de eiwitten in plaats van gehakt. Zo lekker dat je niet eens merkt dat er geen vlees in zit.
+summary: Lala
 ---
+
+
