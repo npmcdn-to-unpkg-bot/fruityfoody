@@ -2,11 +2,11 @@
 layout: recipe
 title: Bosbessen zomertaart
 menu_item: tussendoor
-category: [tussendoor,snelklaar]
+category: [tussendoor]
 tags:
   - slideshow
 type: vegetarisch
-time:
+time: 5 uur
 imagehead: '/img/bosbes_zomertaart/zomertaart.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
 slideshowimage: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
 images:
