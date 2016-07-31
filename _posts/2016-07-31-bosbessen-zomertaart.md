@@ -22,7 +22,7 @@ Moeilijk om het geduld te hebben tot de taart in de koelkast goed stevig is gewo
 #### Ingredi&euml;nten
 
 **Taartbodem:**  
-Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde_taartbodem/ "de gezonde taartbodem").
+Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde-taartbodem/ "de gezonde taartbodem").
 
 {:.table .table-condensed .table-responsive .table-ingredients}
 | Bosbessen laag: |
