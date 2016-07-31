@@ -2,7 +2,7 @@
 layout: recipe
 title: Bosbessen zomertaart
 menu_item: tussendoor
-category: tussendoor
+category: [tussendoor, nonfood]
 tags:
   - slideshow
   - homepage
