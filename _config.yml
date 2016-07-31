@@ -3,7 +3,7 @@ title: Fruity Foodie
 email: "jolanda@fruityfoodie.nl"
 description: > #ignore newlines until "baseurl:"
   Gezonde en lekkere recepten!
-url: "http://fruityfoody.nl"
+url: "http://fruityfoodie.nl"
 twitter_username: FruityFoodie
 paginate: 5
 image_uri_prefix: "//images.fruityfoodie.nl"
