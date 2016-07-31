@@ -20,9 +20,9 @@
   icon: "mdi-carrot"
  
  
-- title: "Snel klaar"
-  href: "/snelklaar/"
-  icon: "mdi-clock-fast"
+- title: "Non-food"
+  href: "/nonfood/"
+  icon: "mdi-water"
  
  
 - title: "Artikelen"
