@@ -13,15 +13,13 @@ layout: default
 {% assign recipes_posts = "1,2" | split: "," %}
 {% assign articles_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
-    {% if post.tags contains 'homepage' %}
-        {% if post.categories contains 'artikelen' %}
-            {% if uri_category.size == 0 or post.categories contains uri_category %}
-                {% assign articles_posts = articles_posts | push: post %}
-            {% endif %}
-        {% else %}
-            {% if uri_category.size == 0 or post.categories contains uri_category %}
-                {% assign recipes_posts = recipes_posts | push: post %}
-            {% endif %}
+    {% if post.categories contains 'artikelen' %}
+        {% if uri_category.size == 0 or post.categories contains uri_category %}
+            {% assign articles_posts = articles_posts | push: post %}
+        {% endif %}
+    {% else %}
+        {% if uri_category.size == 0 or post.categories contains uri_category %}
+            {% assign recipes_posts = recipes_posts | push: post %}
         {% endif %}
     {% endif %}
 {% endfor %}
