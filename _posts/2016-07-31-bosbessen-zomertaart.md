@@ -64,3 +64,32 @@ Moeilijk om het geduld te hebben tot de taart in de koelkast goed stevig is gewo
 | Snufje zout |
 | 2 eetlepels rundergelatine |
 
+
+#### Bereiding
+
+**Bodem:**
+Doe de noten in de keukenmachine en maal tot het kleine korrels zijn.
+Voeg dan de rest van de bodem ingredienten toe in de keuken machine en maal tot het een goed gemengd geheel is.
+Doe bakpapier in een groot taartblik en vet het bakblik in. Schep het deeg in het bakblik en verdeel over de bodem, druk goed aan met de bolle kant van een lepel.
+
+Bak dit 10 a 15 minuten op 180 graden in de oven en laat afkoelen.
+
+**Bosbessenlaag:**
+Doe de bosbessen in de keukenmachine en maal tot het een puree is. SChep enkele eetlepels bosbessenpuree uit de keukenmachine en doe dit in een steelpannetje. Voeg de andere ingredienten toe (behalve de gelatine en slagroom) en maal dit mee. Proef dan of het zoet genoeg is en voeg anders nog wat honing of stevia toe. Klop slagroom op en roer door de puree heen.
+
+Voeg iets water toe aan de bosbessenpuree die je apart hebt gezet in de steelpan en verwarm dit. Voeg dan de gelatine toe en roer tot het is opgelost. Laat iets afkoelen en roer dan door de rest van de ingredienten heen.
+
+Giet over de afgekoelde bodem heen en zet dit 2 uur in de koelkast.
+
+**Citroen-mascarpone laag:**
+Rasp de schil van 1 citroen en pers de citroen daarna uit. Pers de tweede citroen ook. Doe dit in een pannetje. Verwarm dit, voeg gelatine toe en roer tot het is opgelost. Laat wat afkoelen.
+
+Klop de slagroom op. Voeg dan de mascarpone en honing toe en roer goed door. Roer als laatste het iets afgekoelde citroenmengsel toe en roer goed door.
+
+Schenk op de bosbessenlaag en verdeel er goed over met spatel. Plaats het geheel in de koelkast en laat minimaal 1 uur opstijven.
+
+**Lemoncurd laag:**
+Maak Lemoncurd (zie recept lemoncurd van Williene) voeg gelatine toe wanneer de lemoncurd klaar is en nog warm in de pan. Roer tot het goed opgelost is.
+Giet dit over de taart heen en verdeel goed. Maak het af door verse bosbessen te verdelen over de taart.
+
+Plaats de taart in de koelkast en laat minimaal 2 uur opstijven (een nacht is nog beter).
