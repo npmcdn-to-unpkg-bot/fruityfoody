@@ -5,6 +5,7 @@ menu_item: tussendoor
 category: tussendoor
 tags:
  - slideshow
+ - homepage
 type: vegetarisch
 time: 45 minuten
 imagehead: "/img/choconotenfudge/img_1464.jpg?affine=0.4,0,0,0.4,0,0,900,450,50,20"
