@@ -13,7 +13,7 @@ layout: default
 {% assign recipes_posts = "1,2" | split: "," %}
 {% assign articles_posts = "1,2" | split: "," %}
 {% for post in site.posts %}
-    {% if post.categories contains 'artikelen' %}
+    {% if post.categories contains 'informatie' %}
         {% if uri_category.size == 0 or post.categories contains uri_category %}
             {% assign articles_posts = articles_posts | push: post %}
         {% endif %}
