@@ -20,9 +20,9 @@
                                     <span class="course"><i class="mdi mdi-silverware-spoon"></i></span>
                                 {% elsif post.category == 'lunch' or post.category contains 'lunch' %}
                                     <span class="course"><i class="mdi mdi-silverware-fork"></i></span>
-                                {% elsif post.category == 'diner'%}
+                                {% elsif post.category == 'diner' or post.category contains 'diner' %}
                                     <span class="course"><i class="mdi mdi-silverware-variant"></i></span>
-                                {% elsif post.category == 'tussendoor'%}
+                                {% elsif post.category == 'tussendoor' or post.category contains 'tussendoor' %}
                                     <span class="course"><i class="mdi mdi-carrot"></i></span>
                                 {% elsif post.category == 'snelklaar'%}
                                     <span class="course"><i class="mdi mdi-clock-fast"></i></span>
