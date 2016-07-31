@@ -10,9 +10,9 @@
     {% endif %}
     {% if page.slideshowimage or page.imagehead %}
         {% if page.slideshowimage %}
-            <meta property="og:image" content="http://{{ site.image_uri_prefix }}{{ page.slideshowimage }}" />
+            <meta property="og:image" content="http:{{ site.image_uri_prefix }}{{ page.slideshowimage }}" />
         {% else %}
-            <meta property="og:image" content="http://{{ site.image_uri_prefix }}{{ page.imagehead }}" />
+            <meta property="og:image" content="http:{{ site.image_uri_prefix }}{{ page.imagehead }}" />
         {% endif %}
     {% endif %}
     
