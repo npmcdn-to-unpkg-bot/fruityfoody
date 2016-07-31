@@ -5,6 +5,7 @@ menu_item: diner
 category: diner
 tags:
  - slideshow
+ - homepage
 type: vegetarisch
 time: 2 uur
 imagehead: "/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120"
