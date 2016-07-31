@@ -6,8 +6,8 @@ description: > #ignore newlines until "baseurl:"
 url: "http://fruityfoody.nl"
 twitter_username: FruityFoodie
 paginate: 5
-image_uri_prefix: "//fruityfoody.nl.rsz.io"
-muut_forum: "fruityfoody"
+image_uri_prefix: "//images.fruityfoodie.nl"
+muut_forum: "fruityfoodie"
 
 # Serving
 #detach:  false
