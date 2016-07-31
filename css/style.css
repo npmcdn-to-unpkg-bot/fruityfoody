@@ -263,8 +263,8 @@ h3.highlight  {
 }
 
 .panel h4 {
-    padding-top:15x;
-    padding-bottom:15x;
+    margin-top:15x;
+    margin-bottom:15x;
 }
 
 /* end theme */
