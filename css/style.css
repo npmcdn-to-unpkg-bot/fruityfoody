@@ -27,10 +27,6 @@ h1 {
     font-family: 'Berkshire Swash', cursive;
 }
 
-a {
-    text-decoration: underline;
-}
-
 .navbar {
     font-family: 'Berkshire Swash', cursive;
     font-size: 22px;
@@ -149,7 +145,11 @@ body {
 
 a,a:hover {
 	color:#655949;
-  	text-decoration:none;
+  	text-decoration: none;
+}
+
+p a,a:hover {
+  	text-decoration: underline;
 }
 
 .highlight-bk {
