@@ -1,12 +1,12 @@
 ---
 layout: recipe
 title: Bosbessen zomertaart
-menu_item: diner
-category: diner
+menu_item: ontbijt
+category: [ontbijt,lunch,snelklaar]
 tags:
-  - slideshow
+ - slideshow
 type: vegetarisch
-time: 2 uur
+time: 30 minuten
 imagehead: '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
 slideshowimage: '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
 images:
