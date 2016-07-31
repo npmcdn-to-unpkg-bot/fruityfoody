@@ -7,11 +7,8 @@ tags:
   - slideshow
 type: vegetarisch
 time: 5 uur
-imagehead: '/img/bosbes_zomertaart/zomertaart.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-slideshowimage: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-images:
-  - '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-  - '/img/notenlasagna/img_0936.jpg?rotate=270&affine=0.55,0,0,0.55,0,0,900,500,90,200'
+imagehead: '/img/bosbes_zomertaart/zomertaart.jpg?affine=1,0,0,1,0,0,860,500,30,70'
+slideshowimage: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.37,0,0,0.37,0,0,300,250,20,10'
 summary: Lala
 ---
 
