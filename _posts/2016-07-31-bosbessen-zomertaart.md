@@ -2,9 +2,7 @@
 layout: recipe
 title: Bosbessen zomertaart
 menu_item: tussendoor
-category:
-  - tussendoor
-  - snelklaar
+category: [tussendoor,snelklaar]
 tags:
   - slideshow
 type: vegetarisch
