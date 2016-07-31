@@ -16,7 +16,7 @@
                             <span class="info">
                                 <span class="title">{{ post.title }}</span><br/><br/>
                                 <span class="meta">
-                                {% if post.category == 'ontbijt' %}
+                                {% if post.category == 'ontbijt' or post.category contains 'ontbijt' %}
                                     <span class="course"><i class="mdi mdi-silverware-spoon"></i></span>
                                 {% elsif post.category == 'lunch'%}
                                     <span class="course"><i class="mdi mdi-silverware-fork"></i></span>
