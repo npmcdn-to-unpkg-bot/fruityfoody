@@ -9,7 +9,7 @@ tags:
 time: 5 uur
 imagehead: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.89,0,0,0.89,0,0,850,450,00,30'
 slideshowimage: '/img/bosbes_zomertaart/zomertaart.jpg?affine=0.95,0,0,0.95,0,0,900,550,0,80'
-summary: "Deze frisse zomertaart is een combinatie van kwarktaart, monchoutaart, veel vers fuit en lemoncurd.
+summary: "Deze frisse zomertaart is een combinatie van kwarktaart, monchoutaart, veel vers fuit en lemon curd.
 Wat meer werk dan de meeste taarten, maar zeker de moeite waard. Ziet er prachtig uit en hij is echt heerlijk!
 Moeilijk om het geduld te hebben tot de taart in de koelkast goed stevig is geworden, want je wilt er eigenlijk gelijk aan beginnen!"
 ---
@@ -47,7 +47,7 @@ Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde-taartbod
 | 1 eetlepel rundergelatine |
 
 {:.table .table-condensed .table-responsive .table-ingredients}
-| Lemoncurd topping: |
+| Lemon curd topping: |
 | --- |
 | Sap van 2 citroenen |
 | Rasp van de schil van 1 biologische citroen |
@@ -62,7 +62,7 @@ Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde-taartbod
 #### Bereiding
 
 **Taartbodem:**  
-Zie de bereiding van [de gezonde taartbodem](/tussendoor/gezonde_taartbodem/ "de gezonde taartbodem").
+Zie de bereiding van [de gezonde taartbodem](/tussendoor/gezonde-taartbodem/#bereiding "de gezonde taartbodem").
 
 **Bosbessenlaag:**  
 Doe de bosbessen in de keukenmachine en maal tot het een puree is. SChep enkele eetlepels bosbessenpuree uit de keukenmachine en doe dit in een steelpannetje. Voeg de andere ingredienten toe (behalve de gelatine en slagroom) en maal dit mee. Proef dan of het zoet genoeg is en voeg anders nog wat honing of stevia toe. Klop slagroom op en roer door de puree heen.
@@ -78,8 +78,8 @@ Klop de slagroom op. Voeg dan de mascarpone en honing toe en roer goed door. Roe
 
 Schenk op de bosbessenlaag en verdeel er goed over met spatel. Plaats het geheel in de koelkast en laat minimaal 1 uur opstijven.
 
-**Lemoncurd laag:**  
-Maak Lemoncurd (zie recept lemoncurd van Williene) voeg gelatine toe wanneer de lemoncurd klaar is en nog warm in de pan. Roer tot het goed opgelost is.
+**Lemon curd laag:**  
+Maak Lemon curd (zie recept [lemon curd van Williene](http://www.smakelijck.nl/recepten/lemon-curd-/)) voeg gelatine toe wanneer de lemon curd klaar is en nog warm in de pan. Roer tot het goed opgelost is.
 Giet dit over de taart heen en verdeel goed. Maak het af door verse bosbessen te verdelen over de taart.
 
 Plaats de taart in de koelkast en laat minimaal 2 uur opstijven (een nacht is nog beter).

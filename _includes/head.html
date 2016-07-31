@@ -5,6 +5,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="{{ site.description }}">
     
+    {% if page.summary %}
+        <meta property="og:description" content="{{ page.summary }}" />
+    {% endif %}
+    {% if page.slideshowimage or page.imagehead %}
+        {% if page.slideshowimage %}
+            <meta property="og:image" content="http://{{ site.image_uri_prefix }}{{ page.slideshowimage }}" />
+        {% else %}
+            <meta property="og:image" content="http://{{ site.image_uri_prefix }}{{ page.imagehead }}" />
+        {% endif %}
+    {% endif %}
+    
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

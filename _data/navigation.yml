@@ -25,6 +25,6 @@
   icon: "mdi-water"
  
  
-- title: "Artikelen"
-  href: "/artikelen/"
+- title: "Info"
+  href: "/info/"
   icon: "mdi-format-float-right"
