@@ -5,7 +5,6 @@ menu_item: tussendoor
 category: tussendoor
 tags:
   - slideshow
-type: vegetarisch
 time: 5 uur
 imagehead: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=0.89,0,0,0.89,0,0,850,450,00,30'
 slideshowimage: '/img/bosbes_zomertaart/zomertaart.jpg?affine=0.95,0,0,0.95,0,0,900,550,0,80'
@@ -22,14 +21,8 @@ Moeilijk om het geduld te hebben tot de taart in de koelkast goed stevig is gewo
 
 #### Ingredi&euml;nten
 
-{:.table .table-condensed .table-responsive .table-ingredients}
-| Bodem: |
-| --- |
-| 150 gram gemengde noten (Lidl Royal mix o.i.d.) |
-| 100 gr kokosmeel |
-| 60 gram kokosbloesemsuiker (of meer naar smaak) |
-| Snufje zout |
-| 100 gram roomboter |
+**Taartbodem:**  
+Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde_taartbodem/ "de gezonde taartbodem").
 
 {:.table .table-condensed .table-responsive .table-ingredients}
 | Bosbessen laag: |
@@ -67,12 +60,8 @@ Moeilijk om het geduld te hebben tot de taart in de koelkast goed stevig is gewo
 
 #### Bereiding
 
-**Bodem:**  
-Doe de noten in de keukenmachine en maal tot het kleine korrels zijn.
-Voeg dan de rest van de bodem ingredienten toe in de keuken machine en maal tot het een goed gemengd geheel is.
-Doe bakpapier in een groot taartblik en vet het bakblik in. Schep het deeg in het bakblik en verdeel over de bodem, druk goed aan met de bolle kant van een lepel.
-
-Bak dit 10 a 15 minuten op 180 graden in de oven en laat afkoelen.
+**Taartbodem:**  
+Zie de bereiding van [de gezonde taartbodem](/tussendoor/gezonde_taartbodem/ "de gezonde taartbodem").
 
 **Bosbessenlaag:**  
 Doe de bosbessen in de keukenmachine en maal tot het een puree is. SChep enkele eetlepels bosbessenpuree uit de keukenmachine en doe dit in een steelpannetje. Voeg de andere ingredienten toe (behalve de gelatine en slagroom) en maal dit mee. Proef dan of het zoet genoeg is en voeg anders nog wat honing of stevia toe. Klop slagroom op en roer door de puree heen.
