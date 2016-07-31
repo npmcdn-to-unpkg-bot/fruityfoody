@@ -62,7 +62,7 @@ Zie de ingredi&euml;ten van [de gezonde taartbodem](/tussendoor/gezonde-taartbod
 #### Bereiding
 
 **Taartbodem:**  
-Zie de bereiding van [de gezonde taartbodem](/tussendoor/gezonde_taartbodem/ "de gezonde taartbodem").
+Zie de bereiding van [de gezonde taartbodem](/tussendoor/gezonde-taartbodem/#bereiding "de gezonde taartbodem").
 
 **Bosbessenlaag:**  
 Doe de bosbessen in de keukenmachine en maal tot het een puree is. SChep enkele eetlepels bosbessenpuree uit de keukenmachine en doe dit in een steelpannetje. Voeg de andere ingredienten toe (behalve de gelatine en slagroom) en maal dit mee. Proef dan of het zoet genoeg is en voeg anders nog wat honing of stevia toe. Klop slagroom op en roer door de puree heen.
