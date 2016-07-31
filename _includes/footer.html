@@ -30,7 +30,6 @@
     $.each(pageData, function(key, val) {
         pages[val.muutPath] = val;
     });
-    console.log(pages);
 
     $.getJSON(url, function(json) {
         var results = [];
@@ -50,7 +49,7 @@
         });
     });
 </script>
-{% if page_url == '/index.html' or page_url == '' %}
+{% if page_url == '/index.html' or page_url == '/' %}
 <!-- homepage -->
 <script>
 $(document).ready(function(){
