@@ -1,18 +1,18 @@
 # Site vars
 title: Fruity Foody
-email: "jolanda@ateljkuijers.nl"
+email: "jolanda@fruityfoodie.nl"
 description: > #ignore newlines until "baseurl:"
   Gezonde en lekkere recepten!
-url: "http://localhost:4000"
+url: "http://fruityfoody.nl"
 twitter_username: FruityFoodie
 paginate: 5
-image_uri_prefix: "//raw.githubusercontent.com.rsz.io/DotYou/fruityfoody/master"
+image_uri_prefix: "//fruityfoody.nl.rsz.io"
 muut_forum: "fruityfoody"
 
 # Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
+#detach:  false
+#port:    4000
+#host:    127.0.0.1
 baseurl: "" # does not include hostname
 
 # Where things are
