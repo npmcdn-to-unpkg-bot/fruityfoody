@@ -143,12 +143,12 @@ body {
   background-color:#eee;
 }
 
-a,a:hover {
+a, a:hover {
 	color:#655949;
   	text-decoration: none;
 }
 
-p a,a:hover {
+p a, p a:hover {
   	text-decoration: underline;
 }
 
