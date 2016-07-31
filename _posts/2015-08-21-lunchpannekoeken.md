@@ -5,6 +5,7 @@ menu_item: lunch
 category: [lunch, snelklaar]
 tags:
  - slideshow
+ - homepage
 type: vegetarisch
 time: 30 minuten
 imagehead: "/img/lunchpannekoek/img_1048.jpg?affine=0.35,0,0,0.35,0,0,900,450,0,100"
