@@ -20,7 +20,6 @@ summary: Gezonde taartbodem van noten en kokosmeel. Handig als basis voor versch
 
 #### Ingrediënten
 
-
 | Bodem: |
 | --- |
 | 150 gram gemengde noten (Lidl Royal mix o.i.d.) |
