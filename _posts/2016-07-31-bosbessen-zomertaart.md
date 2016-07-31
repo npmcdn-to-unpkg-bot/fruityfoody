@@ -79,7 +79,7 @@ Klop de slagroom op. Voeg dan de mascarpone en honing toe en roer goed door. Roe
 Schenk op de bosbessenlaag en verdeel er goed over met spatel. Plaats het geheel in de koelkast en laat minimaal 1 uur opstijven.
 
 **Lemon curd laag:**  
-Maak Lemon curd (zie recept [lemon curd van Williene](http://www.smakelijck.nl/recepten/lemon-curd-/)) voeg gelatine toe wanneer de lemonc urd klaar is en nog warm in de pan. Roer tot het goed opgelost is.
+Maak Lemon curd (zie recept [lemon curd van Williene](http://www.smakelijck.nl/recepten/lemon-curd-/)) voeg gelatine toe wanneer de lemon curd klaar is en nog warm in de pan. Roer tot het goed opgelost is.
 Giet dit over de taart heen en verdeel goed. Maak het af door verse bosbessen te verdelen over de taart.
 
 Plaats de taart in de koelkast en laat minimaal 2 uur opstijven (een nacht is nog beter).
