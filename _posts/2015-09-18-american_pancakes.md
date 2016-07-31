@@ -3,8 +3,7 @@ layout: recipe
 title: American pancakes
 menu_item: ontbijt
 category: [ontbijt,lunch,snelklaar]
-tags:
- - slideshow
+tags: []
 type: vegetarisch
 time: 30 minuten
 imagehead: "/img/american_pancakes/img_1392.jpg?affine=0.35,0,0,0.35,0,0,900,500,0,100"
