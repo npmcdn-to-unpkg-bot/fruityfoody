@@ -10,6 +10,9 @@ imagehead: "/img/american_pancakes/img_1392.jpg?affine=0.35,0,0,0.35,0,0,900,500
 slideshowimage: "/img/american_pancakes/img_1392.jpg?affine=0.35,0,0,0.35,0,0,900,500,0,100"
 images:
  - /img/american_pancakes/img_1392.jpg?affine=0.35,0,0,0.35,0,0,900,500,0,100
+summary: "Een makkelijk succes recept voor ontbijt, lunch, dessert of gewoon een lekker tussendoortje.
+Deze pannenkoekjes zijn zowel lekker als voedzaam en combineer je met vers fuit, chocolade, yoghurt of room.
+Hier al jarenlang een terugkerende favoriet."
 ---
 
 ### American pancakes
