@@ -262,6 +262,10 @@ h3.highlight  {
     border: 1px solid #d3d3d3;
 }
 
+.panel h4 {
+    padding-bottom:20px;
+}
+
 /* end theme */
 
 /* slider */
