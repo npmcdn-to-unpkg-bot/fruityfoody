@@ -2,7 +2,7 @@
 layout: recipe
 title: Lunchpannekoeken
 menu_item: lunch
-category: [lunch, snelklaar]
+category: [lunch]
 tags:
  - slideshow
  - homepage
