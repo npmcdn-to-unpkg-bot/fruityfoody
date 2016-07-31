@@ -1,16 +1,38 @@
 ---
 layout: recipe
-title: 2016-07-31-gezonde_taartbodem
-menu_item: diner
-category: diner
-tags:
-  - slideshow
+title: 2016-07-30-gezonde_taartbodem
+menu_item: tussendoor
+category: tussendoor
+tags: []
 type: vegetarisch
-time: 2 uur
-imagehead: '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-slideshowimage: '/img/notenlasagna/img_0934.jpg?affine=0.57,0,0,0.57,0,0,900,550,500,200'
-images:
-  - '/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120'
-  - '/img/notenlasagna/img_0936.jpg?rotate=270&affine=0.55,0,0,0.55,0,0,900,500,90,200'
-summary: Heerlijke vegetarische notenlasagne voor 4 personen. Deze lagagne heeft gegrilde aubergineplakjes in plaats van pasta lasagnebladen. Daarnaast bevat het noten voor de eiwitten in plaats van gehakt. Zo lekker dat je niet eens merkt dat er geen vlees in zit.
+time: 30 minuten
+imagehead: '/img/bosbes_zomertaart/zomerpunt.jpg?affine=1.3,0,0,1.3,0,0,900,350,320,270'
+images: []
+summary: "Gezonde taartbodem van noten en kokosmeel. Handig als basis voor verschillende taarten en gebakjes."
 ---
+
+### Gezonde taartbodem
+
+{% if page.summary %}{{ page.summary }}{% endif %}
+
+---
+
+#### Ingredi&euml;nten
+
+{:.table .table-condensed .table-responsive .table-ingredients}
+| Bodem: |
+| --- |
+| 150 gram gemengde noten (Lidl Royal mix o.i.d.) |
+| 100 gr kokosmeel |
+| 60 gram kokosbloesemsuiker (of meer naar smaak) |
+| Snufje zout |
+| 100 gram roomboter |
+
+#### Bereiding
+
+**Bodem:**  
+Doe de noten in de keukenmachine en maal tot het kleine korrels zijn.
+Voeg dan de rest van de bodem ingredienten toe in de keuken machine en maal tot het een goed gemengd geheel is.
+Doe bakpapier in een groot taartblik en vet het bakblik in. Schep het deeg in het bakblik en verdeel over de bodem, druk goed aan met de bolle kant van een lepel.
+
+Bak dit 10 a 15 minuten op 180 graden in de oven en laat afkoelen.
