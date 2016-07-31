@@ -27,6 +27,10 @@ h1 {
     font-family: 'Berkshire Swash', cursive;
 }
 
+a {
+    text-decoration: underline;
+}
+
 .navbar {
     font-family: 'Berkshire Swash', cursive;
     font-size: 22px;
