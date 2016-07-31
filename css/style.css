@@ -323,8 +323,8 @@ h3.highlight  {
     margin: 0;
     border: 0;
     cursor: pointer;
-    height: 100px;
-    min-height: 100px;
+    height: 95px;
+    min-height: 95px;
 }
 .slider label:hover {
     background-color: #eee;
