@@ -73,6 +73,22 @@ $(document).ready(function(){
 </script>
 {% endif %}
 
+{% if page.layout == 'home-page-tiled'%}
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.wookmark/2.1.2/wookmark.min.js"></script>
+<script>
+    $('.category-body').wookmark({
+        align: 'center',
+        autoResize: true,
+        container: $('.category-body'),
+        direction: 'left',
+        itemWidth : '50%',
+        fillEmptySpace: false,
+        flexibleWidth: true,
+        offset: 2
+    }});
+</script>
+{% endif %}
+
 {% if current[1] == 'ontbijt' or current[1] == 'lunch' or current[1] == 'diner' or current[1] == 'tussendoor' or current[1] == 'snelklaar'%}
 <!-- recipe -->
 <script src="//cdn.muut.com/1/moot.nl.min.js"></script>
