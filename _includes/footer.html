@@ -25,23 +25,31 @@
 <script src="//npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.wookmark/2.1.2/wookmark.min.js"></script>
 <script>
-    var tiledContainer = $('#category-tiled');
-    tiledContainer.imagesLoaded(function() {
-        tiledContainer.trigger('refreshWookmark');
-    });
-    tiledContainer.wookmark({
-        align: 'left',
-        autoResize: true,
-        container: tiledContainer,
-        direction: 'left',
-        itemWidth : '50%',
-        fillEmptySpace: true,
-        flexibleWidth: function () {
-            // Return a maximum width depending on the viewport
-            return getWindowWidth() < 992 ? '100%' : '50%';
-        },
-        offset: 0
-    });
+    (function() {
+        function getWindowWidth() {
+            return Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+        }
+        
+        var tiledContainer = $('#category-tiled');
+        
+        tiledContainer.imagesLoaded(function() {
+            tiledContainer.trigger('refreshWookmark');
+        });
+        
+        tiledContainer.wookmark({
+            align: 'left',
+            autoResize: true,
+            container: tiledContainer,
+            direction: 'left',
+            itemWidth : '50%',
+            fillEmptySpace: true,
+            flexibleWidth: function () {
+                // Return a maximum width depending on the viewport
+                return getWindowWidth() < 992 ? '100%' : '50%';
+            },
+            offset: 0
+        });
+    })();
 </script>
 {% endif %}
 
