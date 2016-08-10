@@ -36,7 +36,10 @@
         direction: 'left',
         itemWidth : '50%',
         fillEmptySpace: true,
-        flexibleWidth: true,
+        flexibleWidth: function () {
+            // Return a maximum width depending on the viewport
+            return getWindowWidth() < 992 ? '100%' : '50%';
+        },
         offset: 0
     });
 </script>
