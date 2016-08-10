@@ -26,7 +26,6 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.wookmark/2.1.2/wookmark.min.js"></script>
 <script>
     var tiledContainer = $('#category-tiled');
-    var handler = $('#category-tiled div');
     var options = {
         align: 'left',
         autoResize: true,
@@ -38,9 +37,9 @@
         offset: 0
     };
     tiledContainer.imagesLoaded(function() {
-      handler.wookmark(options);
+      tiledContainer.wookmark(options);
     });
-    handler.wookmark(options);
+    tiledContainer.wookmark(options);
 </script>
 {% endif %}
 
