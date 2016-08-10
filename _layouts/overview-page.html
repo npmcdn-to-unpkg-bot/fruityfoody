@@ -120,7 +120,8 @@ layout: default
         
         <div class="col col-sm-4 col-md-3">
             <div id="sidebar">
-                {% if !page.hide_top_posts %}
+                {{ page.hide_top_post }}
+                {% if page.hide_top_posts %}
                 {% include top-posts.html %}
                 {% endif %}
             </div>
