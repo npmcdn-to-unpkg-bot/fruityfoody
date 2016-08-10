@@ -34,13 +34,13 @@ layout: default
         
         {{ content }}
         
-        {% for i in postRowsLoop %}
-            {% assign k = i | times:2 | minus:1 %}
-            {% assign j = k | minus:1 %}
-            {% assign l = i | minus:1 %}
-            
-            {% if recipes_posts[j] %}
-            <div class="row">
+            <div id="category-tiled">
+            {% for i in postRowsLoop %}
+                {% assign k = i | times:2 | minus:1 %}
+                {% assign j = k | minus:1 %}
+                {% assign l = i | minus:1 %}
+                
+                {% if recipes_posts[j] %}
                 <div class="col col-md-6">
                     <div class="panel">
                         {% if recipes_posts[j].imagehead %}
@@ -65,10 +65,8 @@ layout: default
                     </div>
                 </div>
                 {% endif %}
-            </div>
-            {% endif %}
-            {% if articles_posts[l] %}
-            <div class="row">
+                {% endif %}
+                {% if articles_posts[l] %}
                 <div class="col col-xs-12">
                     <div class="panel">
                         {% if articles_posts[l].imagehead %}
@@ -80,14 +78,12 @@ layout: default
                         <p>{{ articles_posts[l].summary }}</p>
                     </div>
                 </div>
-            </div>
-            {% endif %}
-            
-            {% if forloop.last %}
-                {% assign j = j | plus:2 %}
-                {% assign k = k | plus:2 %}
-                {% if recipes_posts[j] %}
-                <div class="row">
+                {% endif %}
+                
+                {% if forloop.last %}
+                    {% assign j = j | plus:2 %}
+                    {% assign k = k | plus:2 %}
+                    {% if recipes_posts[j] %}
                     <div class="col col-md-6">
                         <div class="panel">
                             {% if recipes_posts[j].imagehead %}
@@ -112,10 +108,10 @@ layout: default
                         </div>
                     </div>
                     {% endif %}
-                </div>
+                    {% endif %}
                 {% endif %}
-            {% endif %}
-        {% endfor %}
+            {% endfor %}
+            </div>
         </div>
         
     {% unless page.hide_top_posts %} 
