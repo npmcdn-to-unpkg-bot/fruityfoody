@@ -15,7 +15,7 @@
 {% assign muut_pages_json = muut_pages_json | shift: 2 %}
 
 <div id="footer">
-    <div class="footer">{{ page.layout }}</div>
+    <div class="footer">{{ page | json }}</div>
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
