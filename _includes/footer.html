@@ -30,7 +30,7 @@
         
         var tiledContainer = $('#category-tiled'),
             getWindowWidth = function () {
-                console.log(document.documentElement.clientWidth);
+                console.log('test',document.documentElement.clientWidth);
                 return Math.max(
                     document.documentElement.clientWidth,
                     window.innerWidth || 0
@@ -49,6 +49,7 @@
             itemWidth : '50%',
             fillEmptySpace: true,
             flexibleWidth: function () {
+                console.log(getWindowWidth());
                 // Return a maximum width depending on the viewport
                 return getWindowWidth() < 992 ? '100%' : '50%';
             },
