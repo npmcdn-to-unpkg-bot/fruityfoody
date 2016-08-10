@@ -26,14 +26,15 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.wookmark/2.1.2/wookmark.min.js"></script>
 <script>
     (function() {
-        function getWindowWidth() {
-            return Math.max(
-                document.documentElement.clientWidth,
-                window.innerWidth || 0
-            );
-        }
+        function 
         
-        var tiledContainer = $('#category-tiled');
+        var tiledContainer = $('#category-tiled'),
+            getWindowWidth = function () {
+                return Math.max(
+                    document.documentElement.clientWidth,
+                    window.innerWidth || 0
+                );
+            };
         
         tiledContainer.imagesLoaded(function() {
             tiledContainer.trigger('refreshWookmark');
