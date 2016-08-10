@@ -120,7 +120,6 @@ layout: default
         
         <div class="col col-sm-4 col-md-3">
             <div id="sidebar">
-                {{ page | json }}
                 {% unless page.hide_top_posts %} {% include top-posts.html %} {% endif %}
             </div>
         </div>
