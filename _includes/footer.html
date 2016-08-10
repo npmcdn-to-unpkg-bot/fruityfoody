@@ -22,18 +22,25 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
 {% if page.name == 'index.html' %}
+<script src="//npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.wookmark/2.1.2/wookmark.min.js"></script>
 <script>
-    $('#category-tiled').wookmark({
+    var tiledContainer = $('#category-tiled');
+    var handler = $('#category-tiled div');
+    var options = {
         align: 'left',
         autoResize: true,
-        container: $('#category-tiled'),
+        container: tiledContainer,
         direction: 'left',
         itemWidth : '50%',
         fillEmptySpace: true,
         flexibleWidth: true,
         offset: 0
+    };
+    tiledContainer.imagesLoaded(function() {
+      handler.wookmark(options);
     });
+    handler.wookmark(options);
 </script>
 {% endif %}
 
