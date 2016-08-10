@@ -42,7 +42,6 @@ layout: default
                 {% assign l = i | minus:1 %}
                 
                 {% if recipes_posts[j] %}
-                <div class="row">
                     <div class="col col-md-6">
                         <div class="panel">
                             {% if recipes_posts[j].imagehead %}
@@ -67,10 +66,8 @@ layout: default
                         </div>
                     </div>
                     {% endif %}
-                </div>
                 {% endif %}
                 {% if articles_posts[l] %}
-                <div class="row">
                     <div class="col col-xs-12">
                         <div class="panel">
                             {% if articles_posts[l].imagehead %}
@@ -82,14 +79,12 @@ layout: default
                             <p>{{ articles_posts[l].summary }}</p>
                         </div>
                     </div>
-                </div>
                 {% endif %}
                 
                 {% if forloop.last %}
                     {% assign j = j | plus:2 %}
                     {% assign k = k | plus:2 %}
                     {% if recipes_posts[j] %}
-                    <div class="row">
                         <div class="col col-md-6">
                             <div class="panel">
                                 {% if recipes_posts[j].imagehead %}
@@ -100,7 +95,6 @@ layout: default
                                 <h3><a href="{{recipes_posts[j].url}}">{{ recipes_posts[j].title }}</a></h3>
                                 <p>{{ recipes_posts[j].summary }}</p>
                             </div>
-                        </div>
                         {% if recipes_posts[k] %}
                         <div class="col col-md-6">
                             <div class="panel">
@@ -114,7 +108,6 @@ layout: default
                             </div>
                         </div>
                         {% endif %}
-                    </div>
                     {% endif %}
                 {% endif %}
             {% endfor %}
