@@ -30,7 +30,7 @@ layout: default
 <div class="container">
 	<div class="row">
 
-        <div class="col col-sm-8 col-md-9 category-body">
+        {% unless page.hide_top_posts %}<div class="col col-sm-8 col-md-9 category-body">{% else %}<div class="col col-sm-12 category-body">{% endunless %}
         
         {{ content }}
         
@@ -118,10 +118,10 @@ layout: default
         {% endfor %}
         </div>
         
+    {% unless page.hide_top_posts %} 
         <div class="col col-sm-4 col-md-3">
-            <div id="sidebar">
-                {% unless page.hide_top_posts %} {% include top-posts.html %} {% endunless %}
-            </div>
+            <div id="sidebar">{% include top-posts.html %}</div>
         </div>
+    {% endunless %}
     </div>
 </div>
