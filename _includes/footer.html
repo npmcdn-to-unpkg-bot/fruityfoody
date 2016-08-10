@@ -44,11 +44,11 @@
             autoResize: true,
             container: tiledContainer,
             direction: 'left',
-            itemWidth : 250,
-            fillEmptySpace: true,
-            flexibleWidth: function () {
+            itemWidth : function () {
                 return getWindowWidth() < 992 ? '100%' : '50%';
             },
+            fillEmptySpace: true,
+            flexibleWidth: true,
             offset: 0
         });
     })();
