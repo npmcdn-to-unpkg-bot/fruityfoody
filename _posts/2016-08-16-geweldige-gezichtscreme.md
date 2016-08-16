@@ -47,21 +47,21 @@ En als je leest wat het effect van de ingredienten is dan snap je ook gelijk hoe
 
 #### Basis oli&euml;n
 
-**Amandelolie** - wordt al eeuwenlang gebruikt als verzorging voor haar en huid. Verzacht, revitaliseert, hydrateert en voedt de huid. Gaat veroudering van de huid tegen en zorgt dat afvalstoffen worden afgevoerd.
-**Kokosolie** - heeft een beschermende werking op de celmembranen en huid. Beschermd tegen uitdroging, is een anti oxidant en hersteld de PH balans van de huid, heeft anti microbiele en schimmeldodende werking op de huid.
-**Bijenwas** - geeft stevigheid en duurzaamheid aan creme, bevat vitamine A en heeft een beschermende en vochtvasthoudende werking. Sluit de huid niet af, maar laat haar ademen terwijl het wel beschermd tegen de elementen.
-**Arganolie** - wordt traditioneel gebruikt bij diverse huidaandoeningen zoals verwondingen, huidvlekken, eczeem of acne. De huid wordt gladder en mooier doordat de vitamine E en antioxidanten in Arganolie.
-Arganolie vangt vrije radicalen en maakt ze onschadelijk, zo wordt celveroudering tegengegaan.
-**Sheaboter** - Hoog gehalte aan vitamine A,E en F, hydrateert de huid. Verbeterd de bloedsomloop en bevordert de elasticiteit van de huid.
-**Cacaoboter** - Verzacht de geirriteerde huid en helpt jeuk te voorkomen. Gaat veroudering van de huid tegen door de anti oxidanten die het bevat. Vervaagt littekens (ook striae).
-**Vitamine E olie** - Voorkomt een doffe, futloze huid doordat de productie van elastine en callogeen worden gestimuleerd,  anti oxiderende eigenschappen, verzachtend.
+**Amandelolie** - wordt al eeuwenlang gebruikt als verzorging voor haar en huid. Verzacht, revitaliseert, hydrateert en voedt de huid. Gaat veroudering van de huid tegen en zorgt dat afvalstoffen worden afgevoerd.  
+**Kokosolie** - heeft een beschermende werking op de celmembranen en huid. Beschermd tegen uitdroging, is een anti oxidant en hersteld de PH balans van de huid, heeft anti microbiele en schimmeldodende werking op de huid.  
+**Bijenwas** - geeft stevigheid en duurzaamheid aan creme, bevat vitamine A en heeft een beschermende en vochtvasthoudende werking. Sluit de huid niet af, maar laat haar ademen terwijl het wel beschermd tegen de elementen.  
+**Arganolie** - wordt traditioneel gebruikt bij diverse huidaandoeningen zoals verwondingen, huidvlekken, eczeem of acne. De huid wordt gladder en mooier doordat de vitamine E en antioxidanten in Arganolie.  
+Arganolie vangt vrije radicalen en maakt ze onschadelijk, zo wordt celveroudering tegengegaan.  
+**Sheaboter** - Hoog gehalte aan vitamine A,E en F, hydrateert de huid. Verbeterd de bloedsomloop en bevordert de elasticiteit van de huid.  
+**Cacaoboter** - Verzacht de geirriteerde huid en helpt jeuk te voorkomen. Gaat veroudering van de huid tegen door de anti oxidanten die het bevat. Vervaagt littekens (ook striae).  
+**Vitamine E olie** - Voorkomt een doffe, futloze huid doordat de productie van elastine en callogeen worden gestimuleerd,  anti oxiderende eigenschappen, verzachtend.  
 
 #### Essenti&euml;le olien van Young Living
 
-**Lavendel** - een olie die bekend staat om zijn rustgevende, ontspannende effect. Werkt ontstekingsremmend en hersteld de balans in de huid waar die verstoord is zoals bij exceem, acne, littekens e.d.
-**Pepermunt** - verfrissende olie die reinigt (antibacterieel, antiviraal, anti schimmel) en verbetering brengt bij jeukende, geirriteerde huid.
-**Teatree** - Deze olie wordt specifiek vaak gebruikt voor de gezondheid van de huid. Ontstekingsremmend, antibacterieel en wordt gebruikt tegen schimmelinfecties, acne en zweertjes.
-**Frankincense** - Stimuleert met immuunsysteem, werkt als antidepressivum, ontspannend.
+**Lavendel** - een olie die bekend staat om zijn rustgevende, ontspannende effect. Werkt ontstekingsremmend en hersteld de balans in de huid waar die verstoord is zoals bij exceem, acne, littekens e.d.  
+**Pepermunt** - verfrissende olie die reinigt (antibacterieel, antiviraal, anti schimmel) en verbetering brengt bij jeukende, geirriteerde huid.  
+**Teatree** - Deze olie wordt specifiek vaak gebruikt voor de gezondheid van de huid. Ontstekingsremmend, antibacterieel en wordt gebruikt tegen schimmelinfecties, acne en zweertjes.  
+**Frankincense** - Stimuleert met immuunsysteem, werkt als antidepressivum, ontspannend.  
 
 #### Bereiding
 
