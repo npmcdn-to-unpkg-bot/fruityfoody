@@ -9,7 +9,7 @@ tags:
 type: vegetarisch
 time: 2,5 uur
 imagehead: "/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120"
-## slideshowimage: "/img/notenlasagna/img_0934.jpg?affine=0.57,0,0,0.57,0,0,900,550,500,200"
+# slideshowimage: "/img/notenlasagna/img_0934.jpg?affine=0.57,0,0,0.57,0,0,900,550,500,200"
 slideshowimage: "/img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120"
 images:
  - /img/notenlasagna/img_0930.jpg?affine=0.37,0,0,0.37,0,0,900,550,30,120
