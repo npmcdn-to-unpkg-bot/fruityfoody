@@ -19,8 +19,8 @@ Het bijzondere aan deze creme is dat het echt voor alles werkt!!
 Ik smeer het op mijn gezicht en hals en heb daardoor een veel schonere huid met bijna nooit pukkeltjes (en ik heb al van enkele vrienden gehoord die hetzelfde effect zagen).
 Maar het werkt ook ontzettend goed op de droge huid (in mijn geval mijn scheenbenen) en zelfs voor exceem en verzorging van littekenweefsel.
 In eerste instantie had ik 3 verschillende cremes gemaakt, maar uiteindelijk gebruik ik toch deze creme voor alles omdat het gewoon het beste werkt.
-En als je leest wat het effect van de ingredienten is dan snap je ook gelijk hoe dat mogelijk is!
-Het geheim: [Essenti&euml;le oli&euml;n Young Living](http://bit.ly/yljolanda){:target="_blank"}
+En als je leest wat het effect van de ingredienten is dan snap je ook gelijk hoe dat mogelijk is!  
+Het geheim: [Essenti&euml;le oli&euml;n van Young Living](http://bit.ly/yljolanda){:target="_blank"}
 
 ---
 
