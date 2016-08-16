@@ -6,6 +6,7 @@ category: tussendoor
 tags: [ homepage ]
 type: vegetarisch
 time: '1,75 uur'
+summary: "De klassieker die op geen feestje mag missen: de ouderwets lekkere appeltaart! Maar dan met een gezonde bodem waardoor het ook nog eens een feestje voor je lichaam is."
 ---
 
 ### Appeltaart
