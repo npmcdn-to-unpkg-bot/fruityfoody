@@ -40,8 +40,7 @@ h1 {
 
 .panel .image-head {
     overflow: hidden;
-    margin-left: -27px;
-    margin-right: -27px;
+    margin: -15px -27px 0 -27px;
     border-radius: 4px 4px 0 0;
     max-height: 250px;
 }
@@ -257,10 +256,8 @@ h3.highlight  {
 }
 
 .panel {
-	padding-left:27px;
-    padding-right:27px;
+    padding: 15px 27px;
     border: 1px solid #d3d3d3;
-    padding-bottom: 15px;
 }
 
 .panel h4 {
