@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title: appeltaart
+title: Gezonde appeltaart
 menu_item: tussendoor
 category: tussendoor
 tags: [ homepage ]
 type: vegetarisch
-time: '2,5 uur'
+time: '1,75 uur'
 ---
 
 ### Appeltaart
@@ -73,7 +73,7 @@ Maak in een pannetje de suiker met 2 eetlepels water warm totdat het begint te c
 Voeg dan de boter toe en als laatste de kokosmelk. Roer goed door en laat wat afkoelen.
 Doe de gewelde rozijnen bij de appels en giet dan de caramel eroverheen. Goed roeren en dan verdelen over de taartbodem.
 
-Topping:
+**Topping:**  
 Doe het amandelmeel/speltmeel mengsel in een kommetje en meng het lijnzaad, palmsuiker, kaneel en kardemom erdoor. Kneed de boter hierdoorheen tot er een kruimelig deeg ontstaat. Snijd de noten in stukjes en meng door het kruimeldeeg. Strooi de kruimels over de appeltaart.
 
 Doe wat zilverfolie over de appeltaart en plaats die in de oven. Bak eerst 25 minuten op 180 graden met folie en haal dan het folie eraf en bak nog 15 minuten.
