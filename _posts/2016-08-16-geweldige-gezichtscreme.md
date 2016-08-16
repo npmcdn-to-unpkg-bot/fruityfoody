@@ -58,8 +58,8 @@ Arganolie vangt vrije radicalen en maakt ze onschadelijk, zo wordt celverouderin
 
 #### Essenti&euml;le olien van Young Living
 
-**Lavendel** - een olie die bekend staat om zijn rustgevende, ontspannende effect. Werkt ontstekingsremmend en hersteld de balans in de huid waar die verstoord is zoals bij exceem, acne, littekens e.d.  
-**Pepermunt** - verfrissende olie die reinigt (antibacterieel, antiviraal, anti schimmel) en verbetering brengt bij jeukende, geirriteerde huid.  
+**Lavendel** - Een olie die bekend staat om zijn rustgevende, ontspannende effect. Werkt ontstekingsremmend en hersteld de balans in de huid waar die verstoord is zoals bij exceem, acne, littekens e.d.  
+**Pepermunt** - Verfrissende olie die reinigt (antibacterieel, antiviraal, anti schimmel) en verbetering brengt bij jeukende, geirriteerde huid.  
 **Teatree** - Deze olie wordt specifiek vaak gebruikt voor de gezondheid van de huid. Ontstekingsremmend, antibacterieel en wordt gebruikt tegen schimmelinfecties, acne en zweertjes.  
 **Frankincense** - Stimuleert met immuunsysteem, werkt als antidepressivum, ontspannend.  
 
