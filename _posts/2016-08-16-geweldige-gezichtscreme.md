@@ -20,6 +20,7 @@ Ik smeer het op mijn gezicht en hals en heb daardoor een veel schonere huid met 
 Maar het werkt ook ontzettend goed op de droge huid (in mijn geval mijn scheenbenen) en zelfs voor exceem en verzorging van littekenweefsel.
 In eerste instantie had ik 3 verschillende cremes gemaakt, maar uiteindelijk gebruik ik toch deze creme voor alles omdat het gewoon het beste werkt.
 En als je leest wat het effect van de ingredienten is dan snap je ook gelijk hoe dat mogelijk is!
+Het geheim: [Essenti&euml;le oli&euml;n Young Living](http://bit.ly/yljolanda){:target="_blank"}
 
 ---
 
@@ -77,5 +78,5 @@ Je kunt variëren met welke olie je toevoegt en met de hoeveelheid. Let alleen e
 #### Kopen van ingredi&euml;nten
 
 Je kunt de meeste ingrediënten in kleine hoeveelheden bij De Tuinen kopen, maar dat is in verhouding duur. Als je daarvoor kiest kun je het beste wachten tot de aanbieding ‘tweede voor 1 euro' die enkele keren per jaar langskomt en voor bijna het hele assortiment geldt. Voordeliger is om grotere hoeveelheden in te kopen bij [De Zeepwinkel](http://www.online-zeepwinkel.nl/){:target="_blank"}. Het handigst is wel om dit met enkele vrienden te doen, want hoe meer je koopt, des te voordeliger is het.
-Essentieel Olie koop ik zelf bij [Young Living](http://bit.ly/yljolanda){:target="_blank"}.
+Essenti&euml;le Olie koop ik zelf bij [Young Living](http://bit.ly/yljolanda){:target="_blank"}.
 Je kunt ze ook bij o.a. De Tuinen kopen of bij Pit-Pit. Ik ben echter niet enthousiast over de kwaliteit. In mijn ervaring steekt de olie van YoungLiving met kop en schouders boven de rest uit.
