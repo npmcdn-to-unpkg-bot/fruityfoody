@@ -25,7 +25,7 @@ time: '1,75 uur'
 | 4 dadels |
 | 1 theelepel wijnsteenbakpoeder |
 | snufje zout |
-| 85 gram boter |
+| 120 gram boter |
 | vanille extract |
 | 1 ei |
 | Flinke snuf kaneel |
@@ -56,6 +56,7 @@ time: '1,75 uur'
 | snufje kardemom |
 | wat kokosmelk als deeg te hard is |
 
+**Bodem en vulling**
 Laat de dadels minimaal een half uurtje weken in water, ook de rozijnen in een apart bakje laten weken in water.
 Schil terwijl je wacht de appels, haal de klokhuizen eruit met een appelboor en snijd in helften.
 Snijd de halve delen in dunne plakjes. Doe dit in een kom en meng met citroensap en kaneel.
@@ -76,4 +77,5 @@ Doe de gewelde rozijnen bij de appels en giet dan de caramel eroverheen. Goed ro
 **Topping:**  
 Doe het amandelmeel/speltmeel mengsel in een kommetje en meng het lijnzaad, palmsuiker, kaneel en kardemom erdoor. Kneed de boter hierdoorheen tot er een kruimelig deeg ontstaat. Snijd de noten in stukjes en meng door het kruimeldeeg. Strooi de kruimels over de appeltaart.
 
+**Afbakken**
 Doe wat zilverfolie over de appeltaart en plaats die in de oven. Bak eerst 25 minuten op 180 graden met folie en haal dan het folie eraf en bak nog 15 minuten.
