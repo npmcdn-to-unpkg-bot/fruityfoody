@@ -57,6 +57,8 @@ summary: "De klassieker die op geen feestje mag missen: de ouderwets lekkere app
 | snufje kardemom |
 | wat kokosmelk als deeg te hard is |
 
+#### Bereiding
+
 **Bodem en vulling:**  
 Laat de dadels minimaal een half uurtje weken in water, ook de rozijnen in een apart bakje laten weken in water.
 Schil terwijl je wacht de appels, haal de klokhuizen eruit met een appelboor en snijd in helften.
